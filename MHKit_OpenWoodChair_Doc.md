@@ -1,6 +1,6 @@
 # Présentation du projet
 
- IMG OpenWoodchair  assemblée fin de sprint
+ IMG OpenWoodchair [DSC_1500]  assemblée fin de sprint
  
 OpenWoodChair est une adaptation par l'association My Human Kit du projet Open wheel chair par la fondation américaine du même nom. Le but, que nous partageons avec cet organisme de bienfaisance, est de proposer une liste de pièces, des plans et un manuel de montage pas à pas permettant l'autoconstruction d'un fauteuil roulant en bois motorisé et à faible coût destiné aux enfants. L'idée est de rendre cet équipement réalisable avec un minimum de moyens techniques, en proposant de recycler un maximum de pièces, dont la maintenance et l'évolutivité soient également garanties. Il s'agit d'un processus en constante évolution, qui est documenté ici et publié sous des licences très permissives permettant son libre usage tout comme sa modification et sa redistribution, .
 
@@ -21,11 +21,12 @@ Pour en consulter les termes (en anglais) vous pouvez consulter le document <LIC
 Le projet initial est accessible sur le site de la fondation [ALT site fondation Open Wheel Chair][http://www.openwheelchair.org/]
 
 ## Sprint Abilympics, Bordeaux, Avril 2016 
-en cours
+attente réponse email
 ## Sprint Fabrikarium , Lycée Airbus, Toulouse, Octobre 2016 
 Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patrice Navarri (Airbus Toulouse), Jean-François Soucaille (Airbus Toulouse), Dirk Thalheim (Airbus HH) pour les conseils et retours utilisateur, Olivier Heinry (FLOSS Manuals) pour la documentation, Philippe Pacotte (sympathisant MHK) pour la modélisation et l'impression 3d.
 [Alt photo de groupe FabrikariumAirbus][DSC_1423]
 
+[DSC_1500]
 [BYU]
 [DSC_1423]
 
@@ -60,7 +61,7 @@ Métrage total utilisé : 10m. Prévoir de débiter 12m.
 Si vous souhaitez rendre les pièces de bois plus durable,vous pouvez les passer à l'huile dure ou bien à l 'huile de lin diluée avec 10 % de térébenthine.
 ## Groupe de propulsion
 * Plaques de fixation des motoréducteurs  
-[](openwheel_chair
+![photo de la plaque de fixation de la boite de vitesse][gearboxplate]
 Ces plaques sont utilisées pour monter les motoréducteurs sur le châssis. Référence GEARBOX-PLATE 14,95$ le lot de 2 chez [www.openwheelchair.org] (http://www.openwheelchair.org/Products/GearBox-Plate/) US$ 14,95 + frais de port
 * 2 motoréducteurs Takanawa RS-555:
    consulter la page dédiée aux moteurs ainsi qu'à leur version haute puissance RS-530.  
@@ -151,30 +152,48 @@ N’oubliez pas de porter vos équipements de protection lors du démontage: lun
 
 Posez la palette à l'envers sur votre plan de travail. Avec le pied de biche, ôtez les clous des semelles: commencez par la planche du milieu, elle est  plus facile à enlever. Réservez les planches.
 IMG_1163 Crédits: CC 3.0 -BY-SA Jacqueline You
+
+
 Posez ensuite la palette au sol toujours sur le dos (son plancher) et chassez les chevrons (les blocs quadrangulaires) avec la masse.
-IMG_1163 Crédits: CC 3.0 -BY-SA Jacqueline You
+IMG_1165 Crédits: CC 3.0 -BY-SA Jacqueline You
+
 Une fois ceci fait, il faut retirer les agrafes et clous restants. On commence par marteler les agrafes du côté des chevrons et on finit de les extraire avec les tenailles.
-IMG_1163 Crédits: CC 3.0 -BY-SA Jacqueline You
+IMG_1162 Crédits: CC 3.0 -BY-SA Jacqueline You
+
 On récolte ça :
-IMG_1163 Crédits: CC 3.0 -BY-SA Jacqueline You
-Finalement,on passe au ponçage des planches afin de faire disparaître les échardes , étape au cours de laquelle le port du masque est hautement recommandé.
+IMG_1166  Crédits: CC 3.0 -BY-SA Jacqueline You
+
+Finalement,on passe au ponçage des planches afin de faire disparaître les échardes , étape au cours de laquelle le port du masque est hautement recommandé. Vous voilà avec un stock de matière première!
+IMG_1167  Crédits: CC 3.0 -BY-SA Jacqueline You
 ## Etape 4 - Débiter le bois de palettes
 On commence par débiter les planches les plus longues, en faisant attention aux nœuds, potentiellement cassants, où aux fentes qui sont apparues au démontage, particulièrement de bois sec. Vous pouvez le faire avec une scie électrique à onglet, à défaut avec une scie à main dans une boîte à onglet. Reportez-vous au paragraphe Ossature bois du chapitre précédent pour consulter la liste des planches nécessaires.
 
-IMG à faire
-
+![version électroportative][DSC_1360]
+![version manuelle][DSC_1354]
 Il est également utile de casser les angles vifs après le débit en passant rapidement la ponceuse inclinée à 45°.
 
-IMG à retrouver @airbus
+
 # Instructions de montage
 ## Étape 1 - Assembler la base du châssis
 Le cadre en bois sera assemblé en 2 parties: tout d'abord la base,  puis le siège avec ses accoudoirs et le dossier.
 
 #### Astuce
-L’assemblage va beaucoup plus vite si  vous organisez vos planches en paquets suivant les dimensions. Vous pouvez prendre un morceau de papier et étiqueter avec les cotes. Puis placez les différentes planches sur les étiquettes appropriées. Avec les différentes pièces étiquetées vous pouvez trouver rapidement la pièce qui vous convient au fur et à mesure de l’assemblage plutôt que d’être obligé de faire le tri suivant les longueurs.
+L’assemblage va beaucoup plus vite si vous organisez vos planches en paquets suivant les dimensions. Vous pouvez noter la cote directement sur la pièce comme nous l'avons fait ici au porte-mine, note qui sera enlevée par ponçage une fois l'assemblage fait.
 
-Rassemblez les différentes parties pour l'ensemble de base comme indiqué dans le tableau suivant: 
+Rassemblez les différentes parties pour l'ensemble de base comme indiqué ici: 
++ 2 x 600mm
++ 4 x 313mm
++ 2 x 83mm
 
+### Découpage d'un gabarit
+
+Afin de garantir la régularité de l'alignement des perçages, nous commençons par construire deux gabarits de perçage. Le premier servira à réaliser les perçages de bout de planche. Pour cela, prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parralèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 18mm d'épaisseur, vous tracez un trait à 9mm de l'extrémité. Vous percerez ensuite à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
+
+On commence par un préperçage non-traversant afin de simplement marquer l'emplacement.
+[DSC_1378] préperçage
+
+On passe ensuite au perçage prorement dit. Cela permet de vérifier que le bois ne fend pas, ou que le perçage n'a pas lieu à un endroit critique comme un noeud ou l'ancien emplacement d'un clou.
+[DSC_1380] perçage
 
 
 
