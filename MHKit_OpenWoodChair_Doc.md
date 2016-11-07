@@ -7,7 +7,8 @@ OpenWoodChair est une adaptation par l'association My Human Kit du projet Open w
 ![Alt Image extraite de la vidéo de présentation du projet Openwheelchair][BYU]. 
 ** crédits: Brigham Young University News**
 
-La principale innovation du projet OpenWoodChair réside dans l'abandon des tubes PVC de l'ossature au profit d'un matériau recyclé disponible à peu près partout sur la planète, à savoir du bois de palette. On peut également imaginer d'autres adaptations à partir de ressources locales disponibles en abondance à proximité de chez vous, comme le bambou pour l'ossature, du tissu produit localement pour les coussins, etc.
+La principale innovation du projet OpenWhoodChair réside dans l'abandon des tubes PVC disponible uniquement sur le marché nord-américain de l'ossature au profit d'un matériau recyclé disponible à peu près partout sur la planète, à savoir du bois de palette. On peut également imaginer d'autres adaptations à partir de ressources locales disponibles en abondance à proximité de chez vous, comme le bambou pour l'ossature, du tissu produit localement pour les coussins, etc.
+Dans l'idée de rendre le fauteuil compatible avec une propulsion manuelle, nous avons également déplacé les roues motrices de l'avant à l'arrière, de telle sorte qu'il est toujours possible d'assembler le fauteuil sans les moteurs électriques avec de grandes roues classiques.
 # Licences
 Le matériel est distribuée sous licence CERN Open License Hardware v1.2.  
 Le logiciel est sous licence GNU General Public License Version 3.  
@@ -59,6 +60,7 @@ Métrage total utilisé : 10m. Prévoir de débiter 12m.
 Si vous souhaitez rendre les pièces de bois plus durable,vous pouvez les passer à l'huile dure ou bien à l 'huile de lin diluée avec 10 % de térébenthine.
 ## Groupe de propulsion
 * Plaques de fixation des motoréducteurs  
+[](openwheel_chair
 Ces plaques sont utilisées pour monter les motoréducteurs sur le châssis. Référence GEARBOX-PLATE 14,95$ le lot de 2 chez [www.openwheelchair.org] (http://www.openwheelchair.org/Products/GearBox-Plate/) US$ 14,95 + frais de port
 * 2 motoréducteurs Takanawa RS-555:
    consulter la page dédiée aux moteurs ainsi qu'à leur version haute puissance RS-530.  
@@ -115,7 +117,7 @@ Utilisé pour retirer le pignon du moteur d'origine pour le remplacer par un mot
 
 ## Visserie & quincaillerie
 ### Visserie bois
-+ x vis de  x 25 mm
++ vis de 3 x 25 mm
 + x vis de 4 x 35 mm
 + x vis de 4 x 45 mm
 #### Astuces
@@ -130,3 +132,53 @@ Utilisé pour retirer le pignon du moteur d'origine pour le remplacer par un mot
    + 2 colliers simples de plomberie dont le diamètre est le double de la tringle ou du tuyau.
    + Colle à bois
    + Un bib de colle à bois vinylique prise rapide
+
+[gearboxplate]: https://github.com/oli44/OpenWhoodChair-1/blob/master/media/openwheelchair_gearbox-platex2.jpg
+
+# Instructions de débit du bois de palette
+## Étape 1: Mesures de votre enfant
+Les cotes données dans la liste des pièces correspondent à la stature d'un enfant de 4 ans (taille de 102 cm. Source: http://www.labonnetaille.com/guide-des-tailles/enfant-bebe-mode-vetements). Si votre enfant est particulièrement grand, vous pouvez rallonger de quelques dizaines de millimètres les cotes des accoudoirs et des montants arrière et avant, éventuellement la profondeur du siège. Par contre, le châssis sur lequel sont fixés roues et moteurs ne doit pas voir ses dimensions évoluer.
+## Étape 2 - Acheter et rassembler les matériaux et  outils 
+Procurez-vous les différents matériaux figurant sur les pages "liste des pièces" et "liste d'outils". Si vous ne trouvez pas certaines pièces, libre à vous d'adapter aux matériaux disponibles à proximité.
+## Étape 3 – Démonter les palettes
+Il existe beaucoup de qualités différentes de palettes, qui peuvent servir à transporter de tout, entre autres des produits toxiques. Faites donc bien attention dans le choix de votre matière première.  Privlégiez les palettes portant le marquage NIMP 15 ressemblant à un épi de lbé et les initiales HT, signifiant qu'elles ont subi un traitement thermique non-toxique contrairement au marquage BM signifiant un traitement au bromure, nocif. Ce dernier est interdit au sein de l'UE depuis 2010.
+
+IPPC_markings_on_wood_pallet.JPG By self-made by the uploader - Own work, CC BY-SA 2.5 ca, https://commons.wikimedia.org/w/index.php?curid=25071284
+
+Choisissez des palettes fraîchement assemblées, le bois séché exerçant plus de contrainte lors du retrait des clous et agrafes.
+#### Astuce
+N’oubliez pas de porter vos équipements de protection lors du démontage: lunettes de protection, gants et bouchons d'oreille, chaussures de sécurité et  vaccin contre le tétanos.
+
+Posez la palette à l'envers sur votre plan de travail. Avec le pied de biche, ôtez les clous des semelles: commencez par la planche du milieu, elle est  plus facile à enlever. Réservez les planches.
+IMG_1163 Crédits: CC 3.0 -BY-SA Jacqueline You
+Posez ensuite la palette au sol toujours sur le dos (son plancher) et chassez les chevrons (les blocs quadrangulaires) avec la masse.
+IMG_1163 Crédits: CC 3.0 -BY-SA Jacqueline You
+Une fois ceci fait, il faut retirer les agrafes et clous restants. On commence par marteler les agrafes du côté des chevrons et on finit de les extraire avec les tenailles.
+IMG_1163 Crédits: CC 3.0 -BY-SA Jacqueline You
+On récolte ça :
+IMG_1163 Crédits: CC 3.0 -BY-SA Jacqueline You
+Finalement,on passe au ponçage des planches afin de faire disparaître les échardes , étape au cours de laquelle le port du masque est hautement recommandé.
+## Etape 4 - Débiter le bois de palettes
+On commence par débiter les planches les plus longues, en faisant attention aux nœuds, potentiellement cassants, où aux fentes qui sont apparues au démontage, particulièrement de bois sec. Vous pouvez le faire avec une scie électrique à onglet, à défaut avec une scie à main dans une boîte à onglet. Reportez-vous au paragraphe Ossature bois du chapitre précédent pour consulter la liste des planches nécessaires.
+
+IMG à faire
+
+Il est également utile de casser les angles vifs après le débit en passant rapidement la ponceuse inclinée à 45°.
+
+IMG à retrouver @airbus
+# Instructions de montage
+## Étape 1 - Assembler la base du châssis
+Le cadre en bois sera assemblé en 2 parties: tout d'abord la base,  puis le siège avec ses accoudoirs et le dossier.
+
+#### Astuce
+L’assemblage va beaucoup plus vite si  vous organisez vos planches en paquets suivant les dimensions. Vous pouvez prendre un morceau de papier et étiqueter avec les cotes. Puis placez les différentes planches sur les étiquettes appropriées. Avec les différentes pièces étiquetées vous pouvez trouver rapidement la pièce qui vous convient au fur et à mesure de l’assemblage plutôt que d’être obligé de faire le tri suivant les longueurs.
+
+Rassemblez les différentes parties pour l'ensemble de base comme indiqué dans le tableau suivant: 
+
+
+
+
+
+
+
+2) Assembler les tubes et les raccords comme indiqué dans la figure suivante. 
