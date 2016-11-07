@@ -21,9 +21,9 @@ Pour en consulter les termes (en anglais) vous pouvez consulter le document <LIC
 Le projet initial est accessible sur le site de la fondation [ALT site fondation Open Wheel Chair][http://www.openwheelchair.org/]
 
 ## Sprint Abilympics, Bordeaux, Avril 2016 
-attente réponse email
+Bernadette et Gérard Véron, Jimmy Véron, Yvonne et René Véron, Madeleine et Jean-Louis Delahaye, Jacqueline et Michel You
 ## Sprint Fabrikarium , Lycée Airbus, Toulouse, Octobre 2016 
-Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patrice Navarri (Airbus Toulouse), Jean-François Soucaille (Airbus Toulouse), Dirk Thalheim (Airbus HH) pour les conseils et retours utilisateur, Olivier Heinry (FLOSS Manuals) pour la documentation, Philippe Pacotte (sympathisant MHK) pour la modélisation et l'impression 3d.
+Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patrice Navarri (Airbus Toulouse), Jean-François Soucaille (Airbus Toulouse), Dirk Thalheim (Airbus HH) pour les conseils et retours utilisateur, Marine du Lycée Aribus (pilote d'essai), Olivier Heinry (FLOSS Manuals) pour la documentation, Philippe Pacotte (sympathisant MHK) pour la modélisation et l'impression 3d.
 [Alt photo de groupe FabrikariumAirbus][DSC_1423]
 
 [DSC_1500]
