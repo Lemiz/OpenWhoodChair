@@ -33,56 +33,84 @@ Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patri
 # Liste des pièces & fournitures
 ## Ossature bois
 Toutes les pièces de bois de palette suivantes ont une section approximative de 50 x 14 mm.
-+ Accoudoirs : 2 x 350mm
-+ Repose-pieds et siège : 7 x 350mm
-+Cadre inférieur :
++ accoudoirs : 2 x 350mm
++ repose-pieds et siège : 7 x 350mm
++cadre inférieur :
    + 2 x 600mm
    + 4 x 313mm
    + 2 x 83mm
-+ Montants arrière : 2 x 450mm
-+ Montants avant : 2 x 530mm
-+ Supports moteur : 
++ montants arrière : 2 x 450mm
++ montants avant : 2 x 530mm
++ supports moteur : 
    + 2 x 83mm
    + 2 x 110mm
-+ Traverses latérales du siège : 4 x 300mm
-+ Traverses arrières du siège :
++ traverses latérales du siège : 4 x 300mm
++ traverses arrières du siège :
    + 1 x 278mm
    + 1 x 310mm
    + 1 x 345mm
-+ Repose-pieds: 1 planche de 340 x 140
++ repose-pieds: 1 planche de 340 x 140
 
 Métrage total utilisé : 10m. Prévoir de débiter 12m.
 
 **PHOTO DSC 1363 (manque 2 pièces longueur 110) **
-+ Dossier du siège
-   + Contreplaqué 9mm : 270x400mm
++ dossier du siège
+   + contreplaqué 9mm : 270x400mm. 
+
 
 ### Astuce
 Si vous souhaitez rendre les pièces de bois plus durable,vous pouvez les passer à l'huile dure ou bien à l 'huile de lin diluée avec 10 % de térébenthine.
+
+ Pour le contreplaqué, utilisez du bois d'intérieur classé E1, dont les colles dégagent peu de COV toxiques. 
+
 ## Groupe de propulsion
 * Plaques de fixation des motoréducteurs  
 ![photo de la plaque de fixation de la boite de vitesse][gearboxplate]
 Ces plaques sont utilisées pour monter les motoréducteurs sur le châssis. Référence GEARBOX-PLATE 14,95$ le lot de 2 chez [www.openwheelchair.org] (http://www.openwheelchair.org/Products/GearBox-Plate/) US$ 14,95 + frais de port
-* 2 motoréducteurs Takanawa RS-555:
-   consulter la page dédiée aux moteurs ainsi qu'à leur version haute puissance RS-530.  
-Budget : 10 à 20 US$ sur Ebay ou Aliexpress. 
+* 2 motoréducteurs Takanawa RS-555: consulter la page dédiée aux moteurs ainsi qu'à leur version haute puissance RS-530. Budget : 10 à 20 US$ sur Ebay ou Aliexpress. 
+* 2 roues folles diamètres 100mm
+* 2 roues pleines diamètre 150mm
 ## Coussins & ceinture
 ### Assise
 * mousse d'épaisseur 50mm: 350 x 270 
 * tissu : deux pièces de 350 x 390 mm
 * 2 bandes velcro aka scratch  à coudre de 5 x 2,5cm
+
 ### Dossier
 * mousse d'épaisseur 50mm: 390 x 300 
 * tissu : deux pièces de 350 x 470 mm
 * 2 bandes velcro aka scratch  à coudre de 5 x 2,5cm
+
 ### Cale-pieds
 * 1 lanière de tissu de 120 x 900mm
+
 ### Ceinture de sécurité
 * 1 sangle avec une boucle de serrage
+
 ### Marquage
 Découpe de bandelettes réfléchissante dans des plaques d'isolant métallisé réfléchissant pour porte de garage avec une face adhésive. 
 * Bande arrière 370 x 50 mm
 * Bandelettes de dimensions variables à disposer sur les roues motrices
+
+## Visserie & quincaillerie
+### Visserie bois
++ vis de 3 x 25 mm (3,5 x 25mm également possible)
++ x vis de 4 x 35 mm
++ x vis de 4 x 45 mm
+#### Astuces
++ Il vaut mieux éviter les vis à tête fendue ou Philips qui sont fragiles ne permettent pas d'exercer beaucoup de force lors du vissage et privilégier les têtes Pozidriv ou Torx.
++ Afin d'accélérer le montage, faites en sorte d'utiliser un seul type et une seule taille d'embout. Par exemple, nous n'avons utilisé que du PZ2 lors du montage de notre prototype.
+
+### Visserie métallique
++ 4 boulons poêliers 5 x 50mm
+### Quincaillerie
++ Axe du repose-pieds  
+   + un bout de tringle à rideau ou un tuyau de plomberie de 340mm de longueur
+   + 2 colliers simples de plomberie dont le diamètre est le double de la tringle ou du tuyau
+   + 2 écrous et 2 rondelles au diamètre correspondant à celui des roues folles 
+   + Colle à bois
+   + Un bib de colle à bois vinylique prise rapide
+
 ## Outillage
 Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, disponibles dans n'importe quel magasin d'outillage. Le seul outil spécialisé dont vous aurez besoin (il s'agit de l'extracteur de pignon) est optionnel, et n'est nécessaire que si vous souhaitez passer à des moteurs plus puissants.
 ### Electroportatif
@@ -90,6 +118,7 @@ Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, dispon
 * une visseuse sans fil OU un jeu de tournevis
 * une ponceuse OU du papier de verre grain 50, grain 120 voire plus fin si vous tenez à avoir une finition d'ébéniste
 * une machine à coudre OU une aiguille et de l'huile de coude
+
 ### Outillage manuel
 * Jeu de clés 6 pans dites Allen (métrique)
 * Jeu d'embouts type Pozi driv ou Torx suivant votre approvisionnement en vis
@@ -115,24 +144,6 @@ Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, dispon
 Utilisé pour retirer le pignon du moteur d'origine pour le remplacer par un moteur plus puissant. Quelques références en ligne:
 + AliExpress  : Puller-Remover-Walkera-W010
 + Hobbyking.com : Product id : S630
-
-## Visserie & quincaillerie
-### Visserie bois
-+ vis de 3 x 25 mm (3,5 x 25mm également possible)
-+ x vis de 4 x 35 mm
-+ x vis de 4 x 45 mm
-#### Astuces
-+ Il vaut mieux éviter les vis à tête fendue ou Philips qui sont fragiles ne permettent pas d'exercer beaucoup de force lors du vissage et privilégier les têtes Pozidriv ou Torx.
-+ Afin d'accélérer le montage, faites en sorte d'utiliser un seul type et une seule taille d'embout. Par exemple, nous n'avons utilisé que du PZ2 lors du montage de notre prototype.
-
-### Visserie métallique
-+ 4 boulons poêliers 5 x 50mm
-### Quincaillerie
-+ Axe du repose-pieds  
-   + un bout de tringle à rideau ou un tuyau de plomberie de 340mm de longueur
-   + 2 colliers simples de plomberie dont le diamètre est le double de la tringle ou du tuyau.
-   + Colle à bois
-   + Un bib de colle à bois vinylique prise rapide
 
 [gearboxplate]: https://github.com/oli44/OpenWhoodChair-1/blob/master/media/openwheelchair_gearbox-platex2.jpg
 
@@ -174,29 +185,26 @@ Il est également utile de casser les angles vifs après le débit en passant ra
 
 
 # Instructions de montage
-## Étape 1 - Assembler la base du châssis
-Le cadre en bois sera assemblé en 2 parties: tout d'abord la base,  puis le siège avec ses accoudoirs et le dossier.
+Le cadre en bois sera assemblé en 2 parties: tout d'abord la base,  puis les accoudoirs et enfin le siège avec son dossier. Le bloc propulsion, le repose-pieds et les coussins seront assemblés à la toute fin.
 
-#### Astuce
-L’assemblage va beaucoup plus vite si vous organisez vos planches en paquets suivant les dimensions. Vous pouvez noter la cote directement sur la pièce comme nous l'avons fait ici au porte-mine, note qui sera enlevée par ponçage une fois l'assemblage fait.
-
-Rassemblez les différentes parties pour l'ensemble de base comme indiqué ici: 
-+ 2 x 600mm
-+ 3 x 313mm
-+ 4 x 83mm
-
-### Découpage de gabarits
-
+## Assemblage de la base du châssis
+## Découpage de gabarits
 Afin de garantir la régularité de l'alignement des perçages, nous commençons par construire deux gabarits de perçage. Le premier servira à réaliser les préperçages de bout de planche et le second pour les  préperçages latéraux. 
 #### Gabarit de vissage de bout
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 18mm d'épaisseur, vous tracez un trait à 9mm de l'extrémité. Vous percerez ensuite 2 trous à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
 [DSC_1370]
-
 #### Gabarit de vissage latéral
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la largeur du bois de palette (dans notre cas, 50mm). Tracez ensuite les diagonales. Vous percerez ensuite 4 trous à 15 mm de chaque angle avec le même foret que précédemment.
 [DSC_1371]
-
+#### Astuce
+L’assemblage va beaucoup plus vite si vous organisez vos planches en paquets suivant les dimensions. Vous pouvez noter la cote directement sur la pièce comme nous l'avons fait ici au porte-mine, note qui sera enlevée par ponçage une fois l'assemblage fait.
 ### Assemblage du cadre
+Rassemblez les différentes pièces nécessaires à cette étape:
++ vis 3x25mm
++ vis 4x35mm
++ 2 x 600mm
++ 4 x 313mm
++ 4 x 83mm
 On commence par prépercer les planches de 600mm en utilisant le gabarit de vissage de bout. On se contente de marquer sans traverser la planche.
 [DSC_1378][préperçage à l'aide du gabarit]
 
@@ -210,17 +218,26 @@ Disposez ensuite les  2 planches de 313 mm à l'intérieur des planches de 600mm
 Nou devons maintenant assembler 2 planches de 83mm à l'intérieur des planches de 600mm, en renfort de ce qui sera l'arrière du chassis au niveau des futures roues motrices. On commence par marquer l'épaisseur de la planche, puis on utilise la gabarit de vissage latéral aligné sur cette marquer pour prépercer la première vis.
 [DSC_1384][Préperçage du renfort]
 
-On visse ensuite avec deux vis 3x25; attention de ne pas noyer la tête pour de pas affleurer du côté intérieur.
+On visse avec deux vis 3x25; attention de ne pas noyer la tête pour de pas affleurer du côté intérieur.
 [DSC_1386][Vissage du renfort]
 
 On peut ensuite assembler la traverse de 313mm avec quatre vis 4x35 pour obtenir un montage dont on vérifiera l'équerrage avant de visser définitivement.
-[DSC_1386][Assemblage des renforts et de la traverse]
+[DSC_1408][Assemblage des renforts et de la traverse]
 
-On répète ensuite l'opération à l'autre extrémité.
+On répète l'opération à l'autre extrémité.
 [DSC_1394][Assemblage final du cadre]
 
+## Assemblage des accoudoirs
+Rassemblez les différentes pièces nécessaires à cette étape:
++ montants arrière : 2 x 450mm
++ montants avant : 2 x 530mm
++ traverses latérales du siège : 4 x 300mm
++ 8 vis 3x25mm
 
+Disposez face à vous en les alignant les extrémités des 4 montants. Utilisez le gabarit de vissage latéral pour marquer 2 préperçages à chaque extrémité. Marquez ensuite chaque montant d'un trait à 245mm de l'extrémité prépercée. Répétez l'opération de préperçage.
+[DSC_1397][Nous avions ici déjà assemblé la traverse du haut. Il est plus aisé de commencer par le marquage simultané de tous les montants avant assemblage.]
 
+Assemblez ensuite 2 traverses de 300mm avec un montant de 450mm et un montant de 530mm. 
+[DSC_1405+1406][Vue recto-verso du premier accoudoir]
 
-
-
+Répétez l'opération pour l'accoudoir suivant, avec les 4 montants du côté opposé. Lors de l'assemblage final, les traverses du bas supporteront l'assise et celles du haut la tablette horizontal de l'accoudoir.
