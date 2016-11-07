@@ -110,8 +110,16 @@ Découpe de bandelettes réfléchissante dans des plaques d'isolant métallisé 
    + un bout de tringle à rideau ou un tuyau de plomberie de 340mm de longueur
    + 2 colliers simples de plomberie dont le diamètre est le double de la tringle ou du tuyau
 + 2 écrous et 2 rondelles du diamètre des roues folles 
-+ un boitier électrique qui passe sous le siège
 + Un bib de colle à bois vinylique prise rapide
+
+## Electronique & électricité
++ 1 Arduino/Genuino Uno
++ un shield DFrobot DC Motor Driver 2×15A - Lite ref. SKU:DRI0018
++ un interrupteur
++ du câble électrique souple 0,75mm2
++ 1.5m de câble Ethernet 4 paires
++ une batterie 12V
++ un connecteur à barillet (dit jack)
 
 ## Outillage
 Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, disponibles dans n'importe quel magasin d'outillage. Le seul outil spécialisé dont vous aurez besoin (il s'agit de l'extracteur de pignon) est optionnel, et n'est nécessaire que si vous souhaitez passer à des moteurs plus puissants.
