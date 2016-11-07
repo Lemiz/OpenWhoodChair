@@ -33,14 +33,15 @@ Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patri
 # Liste des pièces & fournitures
 ## Ossature bois
 Toutes les pièces de bois de palette suivantes ont une section approximative de 50 x 14 mm.
-+ accoudoirs : 2 x 350mm
-+ repose-pieds et siège : 7 x 350mm
++ accoudoirs : 
+    + montants arrière : 2 x 450mm
+    + montants avant : 2 x 530mm2 x 350mm
+    + repose-pieds et siège : 7 x 350mm
 +cadre inférieur :
    + 2 x 600mm
    + 4 x 313mm
    + 2 x 83mm
-+ montants arrière : 2 x 450mm
-+ montants avant : 2 x 530mm
+   + 2 x 36mm
 + supports moteur : 
    + 2 x 83mm
    + 2 x 110mm
@@ -53,7 +54,7 @@ Toutes les pièces de bois de palette suivantes ont une section approximative de
 
 Métrage total utilisé : 10m. Prévoir de débiter 12m.
 
-**PHOTO DSC 1363 (manque 2 pièces longueur 110) **
+**PHOTO DSC 1363 (manque 2 pièces longueur 110 et 2 pièces de 36mm) **
 + dossier du siège
    + contreplaqué 9mm : 270x400mm. 
 
@@ -171,7 +172,7 @@ IMG_1165 Crédits: CC 3.0 -BY-SA Jacqueline You
 Une fois ceci fait, il faut retirer les agrafes et clous restants. On commence par marteler les agrafes du côté des chevrons et on finit de les extraire avec les tenailles.
 IMG_1162 Crédits: CC 3.0 -BY-SA Jacqueline You
 
-On récolte ça :
+On récolte ça:
 IMG_1166  Crédits: CC 3.0 -BY-SA Jacqueline You
 
 Finalement,on passe au ponçage des planches afin de faire disparaître les échardes , étape au cours de laquelle le port du masque est hautement recommandé. Vous voilà avec un stock de matière première!
@@ -187,17 +188,18 @@ Il est également utile de casser les angles vifs après le débit en passant ra
 # Instructions de montage
 Le cadre en bois sera assemblé en 2 parties: tout d'abord la base,  puis les accoudoirs et enfin le siège avec son dossier. Le bloc propulsion, le repose-pieds et les coussins seront assemblés à la toute fin.
 
-## Assemblage de la base du châssis
 ## Découpage de gabarits
 Afin de garantir la régularité de l'alignement des perçages, nous commençons par construire deux gabarits de perçage. Le premier servira à réaliser les préperçages de bout de planche et le second pour les  préperçages latéraux. 
 #### Gabarit de vissage de bout
-Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 18mm d'épaisseur, vous tracez un trait à 9mm de l'extrémité. Vous percerez ensuite 2 trous à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
+Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 14mm d'épaisseur, vous tracez un trait à 7mm de l'extrémité pour que la vis pénètre au coeur du bois. Vous percerez ensuite 2 trous à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
 [DSC_1370]
 #### Gabarit de vissage latéral
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la largeur du bois de palette (dans notre cas, 50mm). Tracez ensuite les diagonales. Vous percerez ensuite 4 trous à 15 mm de chaque angle avec le même foret que précédemment.
 [DSC_1371]
 #### Astuce
 L’assemblage va beaucoup plus vite si vous organisez vos planches en paquets suivant les dimensions. Vous pouvez noter la cote directement sur la pièce comme nous l'avons fait ici au porte-mine, note qui sera enlevée par ponçage une fois l'assemblage fait.
+
+## Assemblage de la base du châssis
 ### Assemblage du cadre
 Rassemblez les différentes pièces nécessaires à cette étape:
 + vis 3x25mm
@@ -215,7 +217,7 @@ Disposez ensuite les  2 planches de 313 mm à l'intérieur des planches de 600mm
 [DSC_1383][Cadre assemblé] 
 
 ### Ajout de renforts
-Nou devons maintenant assembler 2 planches de 83mm à l'intérieur des planches de 600mm, en renfort de ce qui sera l'arrière du chassis au niveau des futures roues motrices. On commence par marquer l'épaisseur de la planche, puis on utilise la gabarit de vissage latéral aligné sur cette marquer pour prépercer la première vis.
+Nous devons maintenant assembler 2 planches de 83mm à l'intérieur des planches de 600mm, en renfort de ce qui sera l'arrière du chassis au niveau des futures roues motrices. On commence par marquer l'épaisseur de la planche, puis on utilise la gabarit de vissage latéral aligné sur cette marquer pour prépercer la première vis.
 [DSC_1384][Préperçage du renfort]
 
 On visse avec deux vis 3x25; attention de ne pas noyer la tête pour de pas affleurer du côté intérieur.
@@ -232,7 +234,9 @@ Rassemblez les différentes pièces nécessaires à cette étape:
 + montants arrière : 2 x 450mm
 + montants avant : 2 x 530mm
 + traverses latérales du siège : 4 x 300mm
-+ 8 vis 3x25mm
++ 12 vis 3x25mm
++ de la colle à bois
+
 
 Disposez face à vous en les alignant les extrémités des 4 montants. Utilisez le gabarit de vissage latéral pour marquer 2 préperçages à chaque extrémité. Marquez ensuite chaque montant d'un trait à 245mm de l'extrémité prépercée. Répétez l'opération de préperçage.
 [DSC_1397][Nous avions ici déjà assemblé la traverse du haut. Il est plus aisé de commencer par le marquage simultané de tous les montants avant assemblage.]
@@ -241,3 +245,30 @@ Assemblez ensuite 2 traverses de 300mm avec un montant de 450mm et un montant de
 [DSC_1405+1406][Vue recto-verso du premier accoudoir]
 
 Répétez l'opération pour l'accoudoir suivant, avec les 4 montants du côté opposé. Lors de l'assemblage final, les traverses du bas supporteront l'assise et celles du haut la tablette horizontal de l'accoudoir.
+
+Marquez ensuite le montant de 530mm à 80mm de l'extrémité laissée libre et utilisez le gabarit de vissage latéral pour y faire 2 prépercages. Prépercez également le montant de 450mm.
+[DSC_1407][Le bon usage de l'autofocus facilite la lecture du mètre-ruban :)]
+
+Vous pouvez alors assembler le premier accoudoir en alignant la base du chassis sur le trait à 80mm et le bord du montant le plus court. L'arrière de montant le plus long doit se caler à l'extrémité de la traverse du chassis.
+[DSC_1407][Vue d'ensemble]
+
+On doit ajouter de nouveaux renforts qui doivent mieux répartir les fortes contraintes liées à l'assemblage des roues motrices à cet endroit. Ces pièces doivent courir de l'extrémité du cadre jusqu'aux montants arrière des accoudoirs. Il vaut mieux les mesurer plutôt que de les couper au préalable. Dans notre cas, elles font 112mm au lieu des 110mm prévus. Ce n'est pas bien méchant, mais tant qu'on y est...
+[DSC_1417][Cales de 110mm qui font 112mm dans la vraie vie]
+
+On est libre d'utiliser le gabarit de vissage latéral ou pas. Un peu de colle à cet endroit ne peut pas faire de mal non plus.
+[DSC_1418][Cales assemblées]
+
+## Montage des roulettes
+Rassemblez les différentes pièces nécessaires à cette étape:
++ traverse: 1 x 345mm
++ 2 roues folles diam. 100mm
++ cales: 2 x 36mm 
++ 6 vis 4x35mm
++ de la colle à bois
+
+On commence par visser la traverse horizontale de 345mm sur laquelle seront fixées les roues folles en travers de l'avant du chassis. On utilisera le gabarit de vissage de bout, en travers tout d'abord pour les deux premières vis, puis à 90° sur la traverse avant, où une seule vis suffira. 
+[DSC_1411-3vis][Détail de l'assemblage]
+
+On perce ensuite la traverse que nous venons de poser pour laisser passer les axes des roues folles. Le dimaètre de perçage dépend du diamètre de ces axes. Dans notre cas, il s'agissait de M8. On perce alors directement en 8mm sans chercher à utiliser un diamètre inférieur contrairement aux vissages effectuées précedemment, car on boulonne. La position latérale du perçage doit être déterminé en fonction de la largeur totale du fauteuil roulant une fois les roues arrières montées. Il faut ques les roulettes avants puissent pivoter librement à l'intérieur de la largeur totale. Quant à la position en profondeur du perçage, elle a été déterminée de telle sorte que la rondelle et l'écrou puissent être assemblés sur l'axe de la roue folle sans encombre.
+[DSC_1412][Détail du boulonnage]
+
