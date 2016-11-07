@@ -185,19 +185,26 @@ Rassemblez les différentes parties pour l'ensemble de base comme indiqué ici:
 + 4 x 313mm
 + 2 x 83mm
 
-### Découpage d'un gabarit
+### Découpage de gabarits
 
-Afin de garantir la régularité de l'alignement des perçages, nous commençons par construire deux gabarits de perçage. Le premier servira à réaliser les perçages de bout de planche. Pour cela, prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parralèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 18mm d'épaisseur, vous tracez un trait à 9mm de l'extrémité. Vous percerez ensuite à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
+Afin de garantir la régularité de l'alignement des perçages, nous commençons par construire deux gabarits de perçage. Le premier servira à réaliser les préperçages de bout de planche et le second pour les  préperçages latéraux. 
+#### Gabarit de vissage de bout
+Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 18mm d'épaisseur, vous tracez un trait à 9mm de l'extrémité. Vous percerez ensuite 2 trous à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
+[DSC_1370]
 
-On commence par un préperçage non-traversant afin de simplement marquer l'emplacement.
-[DSC_1378] préperçage
+#### Gabarit de vissage latéral
+Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la largeur du bois de palette (dans notre cas, 50mm). Tracez ensuite les diagonales. Vous percerez ensuite 4 trous à 15 mm de chaque angle avec le même foret que précédemment.
+[DSC_1371]
 
-On passe ensuite au perçage prorement dit. Cela permet de vérifier que le bois ne fend pas, ou que le perçage n'a pas lieu à un endroit critique comme un noeud ou l'ancien emplacement d'un clou.
-[DSC_1380] perçage
+### Assemblage du cadre
+On commence par prépercer les planches de 600mm en utilisant le gabarit de vissage de bout. On se contente de marquer sans traverser la planche.
+[DSC_1378] préperçage à l'aide du gabarit
+
+On passe ensuite au perçage proprement dit. Cela permet de vérifier que le bois ne fend pas, ou que le perçage n'a pas lieu à un endroit critique comme un noeud ou l'ancien emplacement d'un clou.
+[DSC_1380] perçage proprement dit
+
+Disposez ensuite les  2 planches de 313 mm à l'intérieur des planches de 600mm, en vérifiant le bon équerrage. On visse en 4x35mm. Vosu devez obtenir un cadre rectangulaire, pas un trapèze. 
+[DSC_1383] perçage 
 
 
 
-
-
-
-2) Assembler les tubes et les raccords comme indiqué dans la figure suivante. 
