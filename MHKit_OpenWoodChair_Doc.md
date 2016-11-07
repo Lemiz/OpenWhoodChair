@@ -118,7 +118,7 @@ Utilisé pour retirer le pignon du moteur d'origine pour le remplacer par un mot
 
 ## Visserie & quincaillerie
 ### Visserie bois
-+ vis de 3 x 25 mm
++ vis de 3 x 25 mm (3,5 x 25mm également possible)
 + x vis de 4 x 35 mm
 + x vis de 4 x 45 mm
 #### Astuces
@@ -182,8 +182,8 @@ L’assemblage va beaucoup plus vite si vous organisez vos planches en paquets s
 
 Rassemblez les différentes parties pour l'ensemble de base comme indiqué ici: 
 + 2 x 600mm
-+ 4 x 313mm
-+ 2 x 83mm
++ 3 x 313mm
++ 4 x 83mm
 
 ### Découpage de gabarits
 
@@ -198,13 +198,29 @@ Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite u
 
 ### Assemblage du cadre
 On commence par prépercer les planches de 600mm en utilisant le gabarit de vissage de bout. On se contente de marquer sans traverser la planche.
-[DSC_1378] préperçage à l'aide du gabarit
+[DSC_1378][préperçage à l'aide du gabarit]
 
 On passe ensuite au perçage proprement dit. Cela permet de vérifier que le bois ne fend pas, ou que le perçage n'a pas lieu à un endroit critique comme un noeud ou l'ancien emplacement d'un clou.
-[DSC_1380] perçage proprement dit
+[DSC_1380][Perçage proprement dit]
 
 Disposez ensuite les  2 planches de 313 mm à l'intérieur des planches de 600mm, en vérifiant le bon équerrage. On visse en 4x35mm. Vosu devez obtenir un cadre rectangulaire, pas un trapèze. 
-[DSC_1383] perçage 
+[DSC_1383][Cadre assemblé] 
+
+### Ajout de renforts
+Nou devons maintenant assembler 2 planches de 83mm à l'intérieur des planches de 600mm, en renfort de ce qui sera l'arrière du chassis au niveau des futures roues motrices. On commence par marquer l'épaisseur de la planche, puis on utilise la gabarit de vissage latéral aligné sur cette marquer pour prépercer la première vis.
+[DSC_1384][Préperçage du renfort]
+
+On visse ensuite avec deux vis 3x25; attention de ne pas noyer la tête pour de pas affleurer du côté intérieur.
+[DSC_1386][Vissage du renfort]
+
+On peut ensuite assembler la traverse de 313mm avec quatre vis 4x35 pour obtenir un montage dont on vérifiera l'équerrage avant de visser définitivement.
+[DSC_1386][Assemblage des renforts et de la traverse]
+
+On répète ensuite l'opération à l'autre extrémité.
+[DSC_1394][Assemblage final du cadre]
+
+
+
 
 
 
