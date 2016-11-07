@@ -206,7 +206,8 @@ Rassemblez les différentes pièces nécessaires à cette étape:
 + vis 4x35mm
 + 2 x 600mm
 + 4 x 313mm
-+ 4 x 83mm
++ 2 x 83mm
++ 2 x 36mm
 On commence par prépercer les planches de 600mm en utilisant le gabarit de vissage de bout. On se contente de marquer sans traverser la planche.
 [DSC_1378][préperçage à l'aide du gabarit]
 
@@ -226,8 +227,8 @@ On visse avec deux vis 3x25; attention de ne pas noyer la tête pour de pas affl
 On peut ensuite assembler la traverse de 313mm avec quatre vis 4x35 pour obtenir un montage dont on vérifiera l'équerrage avant de visser définitivement.
 [DSC_1408][Assemblage des renforts et de la traverse]
 
-On répète l'opération à l'autre extrémité.
-[DSC_1394][Assemblage final du cadre]
+On répète l'opération à l'autre extrémité. Attention: il faut utiliser les entretoises de 36mm à l'avant, contrairement a=à ce qu'indique la photo! En effet, nous avons ajouté par la suite un repose-pieds basculant par la suite, qui a nécessité de déplacer vers l'avant la traverse. 
+[DSC_1394][Assemblage final du cadre. ]
 
 ## Assemblage des accoudoirs
 Rassemblez les différentes pièces nécessaires à cette étape:
@@ -236,7 +237,6 @@ Rassemblez les différentes pièces nécessaires à cette étape:
 + traverses latérales du siège : 4 x 300mm
 + 12 vis 3x25mm
 + de la colle à bois
-
 
 Disposez face à vous en les alignant les extrémités des 4 montants. Utilisez le gabarit de vissage latéral pour marquer 2 préperçages à chaque extrémité. Marquez ensuite chaque montant d'un trait à 245mm de l'extrémité prépercée. Répétez l'opération de préperçage.
 [DSC_1397][Nous avions ici déjà assemblé la traverse du haut. Il est plus aisé de commencer par le marquage simultané de tous les montants avant assemblage.]
@@ -262,13 +262,15 @@ On est libre d'utiliser le gabarit de vissage latéral ou pas. Un peu de colle �
 Rassemblez les différentes pièces nécessaires à cette étape:
 + traverse: 1 x 345mm
 + 2 roues folles diam. 100mm
-+ cales: 2 x 36mm 
 + 6 vis 4x35mm
 + de la colle à bois
 
 On commence par visser la traverse horizontale de 345mm sur laquelle seront fixées les roues folles en travers de l'avant du chassis. On utilisera le gabarit de vissage de bout, en travers tout d'abord pour les deux premières vis, puis à 90° sur la traverse avant, où une seule vis suffira. 
-[DSC_1411-3vis][Détail de l'assemblage]
+[DSC_1411-3vis][Détail de l'assemblage avec les entretoises de 83mm.]
 
 On perce ensuite la traverse que nous venons de poser pour laisser passer les axes des roues folles. Le dimaètre de perçage dépend du diamètre de ces axes. Dans notre cas, il s'agissait de M8. On perce alors directement en 8mm sans chercher à utiliser un diamètre inférieur contrairement aux vissages effectuées précedemment, car on boulonne. La position latérale du perçage doit être déterminé en fonction de la largeur totale du fauteuil roulant une fois les roues arrières montées. Il faut ques les roulettes avants puissent pivoter librement à l'intérieur de la largeur totale. Quant à la position en profondeur du perçage, elle a été déterminée de telle sorte que la rondelle et l'écrou puissent être assemblés sur l'axe de la roue folle sans encombre.
-[DSC_1412][Détail du boulonnage]
+[DSC_1412][Détail du boulonnage avec les entretoises de 83mm.]
+
+Votre assemblage final doit plutôt ressembler à cette illustration. 
+[DSC_1412][Détail du collage a posteriori d'une entretoise de 36mm.]
 
