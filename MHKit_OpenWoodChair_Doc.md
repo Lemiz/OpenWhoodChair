@@ -68,9 +68,10 @@ Si vous souhaitez rendre les pièces de bois plus durable,vous pouvez les passer
 * Plaques de fixation des motoréducteurs  
 ![photo de la plaque de fixation de la boite de vitesse][gearboxplate]
 Ces plaques sont utilisées pour monter les motoréducteurs sur le châssis. Référence GEARBOX-PLATE 14,95$ le lot de 2 chez [www.openwheelchair.org] (http://www.openwheelchair.org/Products/GearBox-Plate/) US$ 14,95 + frais de port
+Vous pouvez également les usiner vous-même. Les plans sont en ligne sur https://github.com/OpenWheelchair/Wheelchair-Frame malheureusement dans un format fermé (Solidworks).
 * 2 motoréducteurs Takanawa RS-555: consulter la page dédiée aux moteurs ainsi qu'à leur version haute puissance RS-530. Budget : 10 à 20 US$ sur Ebay ou Aliexpress. 
 * 2 roues folles diamètres 100mm
-* 2 roues pleines diamètre 150mm
+* 2 roues pleines diamètre 150mm avec un axe diamètre M4
 ## Coussins & ceinture
 ### Assise
 * mousse d'épaisseur 50mm: 350 x 270 
@@ -127,6 +128,7 @@ Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, dispon
 * une perceuse à colonne OU une perceuse filaire SINON une visseuse sans fil fera l'affaire
 * une visseuse sans fil OU un jeu de tournevis
 * une ponceuse OU du papier de verre grain 50, grain 120 voire plus fin si vous tenez à avoir une finition d'ébéniste
+* une meuleuse avec disque métal peut être utile pour couper les boulons et vis à bois trop longs
 * une machine à coudre OU une aiguille et de l'huile de coude
 
 ### Outillage manuel
@@ -134,21 +136,19 @@ Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, dispon
 * Jeu d'embouts type Pozi driv ou Torx suivant votre approvisionnement en vis
 * Forets à bois diamètre 2,75 (ou 3) et 6
 * un fer à souder 30W et un peu de brasure
-* un mètre ruban
+* un mètre ruban métallique
 * une équerre
-* un crayon à bois ou une pointe sèche
+* un niveau à bulle
+* un crayon à bois et/ou une pointe sèche
 * des colliers de serrage électrique parfois appelés Rilsan ou Colson
 * des cosses électriques plates
 * un multimètre
 * des serre-joint OU presse à bois OU des pinces-étau
+* du frein-filet faible résistance type Loctite 222 OU du vernis à ongle
 * un pied de biche, une masse & des tenailles pour le recyclage des palettes
-* un masque à poussière
-* des bouchons d'oreilles
-* des lunettes de protection
-* des gants de manutention
-* des ciseaux de couturière
-* une règle 50+ cm
-* un mètre ruban
+* un masque à poussière, des bouchons d'oreilles, des lunettes de protection, des gants de manutention
+* des ciseaux de couturière et un mètre ruban souple
+* une règle 50+ cm qui ne marque pas le tissu
 
 ### Option: extracteur de pignon 
 Utilisé pour retirer le pignon du moteur d'origine pour le remplacer par un moteur plus puissant. Quelques références en ligne:
@@ -227,7 +227,7 @@ Disposez ensuite les  2 planches de 313 mm à l'intérieur des planches de 600mm
 [DSC_1383][Cadre assemblé] 
 
 ### Ajout de renforts
-Nous devons maintenant assembler 2 planches de 83mm à l'intérieur des planches de 600mm, en renfort de ce qui sera l'arrière du chassis au niveau des futures roues motrices. On commence par marquer l'épaisseur de la planche, puis on utilise la gabarit de vissage latéral aligné sur cette marquer pour prépercer la première vis.
+Nous devons maintenant assembler 2 planches de 83mm à l'intérieur des planches de 600mm, au niveau de ce qui portera les futures roues motrices. On commence par marquer l'épaisseur de la planche, puis on utilise la gabarit de vissage latéral aligné sur cette marquer pour prépercer la première vis.
 [DSC_1384][Préperçage du renfort]
 
 On visse avec deux vis 3x25; attention de ne pas noyer la tête pour de pas affleurer du côté intérieur.
@@ -236,7 +236,7 @@ On visse avec deux vis 3x25; attention de ne pas noyer la tête pour de pas affl
 On peut ensuite assembler la traverse de 313mm avec quatre vis 4x35 pour obtenir un montage dont on vérifiera l'équerrage avant de visser définitivement.
 [DSC_1408][Assemblage des renforts et de la traverse]
 
-On répète l'opération à l'autre extrémité. Attention: il faut utiliser les entretoises de 36mm à l'avant, contrairement a=à ce qu'indique la photo! En effet, nous avons ajouté par la suite un repose-pieds basculant par la suite, qui a nécessité de déplacer vers l'avant la traverse. 
+On répète l'opération à l'autre extrémité. Attention: il faut utiliser les entretoises de 36mm à l'avant, contrairement à ce qu'indique la photo! En effet, nous avons ajouté par la suite un repose-pieds basculant par la suite, qui a nécessité de déplacer vers l'avant la traverse. 
 [DSC_1394][Assemblage final du cadre. ]
 
 ## Assemblage des accoudoirs
@@ -277,9 +277,41 @@ Rassemblez les différentes pièces nécessaires à cette étape:
 On commence par visser la traverse horizontale de 345mm sur laquelle seront fixées les roues folles en travers de l'avant du chassis. On utilisera le gabarit de vissage de bout, en travers tout d'abord pour les deux premières vis, puis à 90° sur la traverse avant, où une seule vis suffira. 
 [DSC_1411-3vis][Détail de l'assemblage avec les entretoises de 83mm.]
 
-On perce ensuite la traverse que nous venons de poser pour laisser passer les axes des roues folles. Le dimaètre de perçage dépend du diamètre de ces axes. Dans notre cas, il s'agissait de M8. On perce alors directement en 8mm sans chercher à utiliser un diamètre inférieur contrairement aux vissages effectuées précedemment, car on boulonne. La position latérale du perçage doit être déterminé en fonction de la largeur totale du fauteuil roulant une fois les roues arrières montées. Il faut ques les roulettes avants puissent pivoter librement à l'intérieur de la largeur totale. Quant à la position en profondeur du perçage, elle a été déterminée de telle sorte que la rondelle et l'écrou puissent être assemblés sur l'axe de la roue folle sans encombre.
+On perce ensuite la traverse que nous venons de poser pour laisser passer les axes des roues folles. Le dimaètre de perçage dépend du diamètre de ces axes. Dans notre cas, il s'agissait de M6. On perce alors directement en 8mm sans chercher à utiliser un diamètre inférieur contrairement aux vissages effectuées précedemment, car on boulonne. La position latérale du perçage doit être déterminé en fonction de la largeur totale du fauteuil roulant une fois les roues arrières montées. Il faut ques les roulettes avants puissent pivoter librement à l'intérieur de la largeur totale. Quant à la position en profondeur du perçage, elle a été déterminée de telle sorte que la rondelle et l'écrou puissent être assemblés sur l'axe de la roue folle sans encombre.
 [DSC_1412][Détail du boulonnage avec les entretoises de 83mm.]
 
-Votre assemblage final doit plutôt ressembler à cette illustration. 
+Votre assemblage final doit plutôt ressembler à cette illustration. Comme nous devons régler finement plus tard la hauteur, ne serrez pas trop fort.
 [DSC_1412][Détail du collage a posteriori d'une entretoise de 36mm.]
+
+## montage des roues motrices
+
+Rassemblez les différentes pièces nécessaires à cette étape:
++ 2 plaques de fixation des motoréducteurs
++ 2 motoréducteurs Takanawa RS-555
++ 2 roues pleines diamètre 150mm et leurs moyeux
++ 8 boulons poêliers 5 x 50mm + écrous
++ 8 vis m4 x 30mm tête fraisée
++ 4 vis à bois 4 x 45mm
++ 4 vis à bois 2 x 25 mm
++ clé Allen
+
+Nous commençons par assembler la plaque au motoréducteur, puis la roue à l'ensemble. Une fois fait, on soude les câbles d'alimentation électrique. Une fois les 2 roues assemblées, on les fixe au chassis de bois.
+
+### assemblage de la plaque au motoréducteur.
+Si vous utilisez des vis à tête fraisé, il vous faudra au préalable fraiser les 8 perçages de petit diamètre, par exemple avec un foret HSS 6mm. Si vous utilisez des vis à tête plates, vous pouvez y aller.
+[openwheelchair_gearbox-platex2_cercles.JPG][
+Présentez les plaques face au moteur en faisant coïncider les perçages M4 cerclés sur l'illustration . Vissez en utilsant 4 vis m4 après avoir déposé une goutte de freinfilet à mi-filetage. Répétez l'opération avec l'autre ensemble, en faisant attention à l'orientation. Les 2 assemblages sont symétriques et non pas identiques.
+
+### assemblage de la roue 
+Assemblez la roue sur son moyeu en répartissant également les quatre boulons poêliers. N'hésitez pas encore une fois à mettre une goutte de freinfilet.
+[DSC_1412][Vue latérale de l'assemblage. Evitez d'utiliser des vis cruciformes et fendues comme nous l'avons fait ;-)]
+Présentez la roue sur l'axe du moteur. La vis de serrage doit être présentée face au méplat de l'axe. On utilise une clé Allen pour ce faire. [DSC_1368][Vue masse de l'assemblage. Vous pouvez raccourcir les boulons à la meuleuse si ils risquent de frotter contre la plaque.]
+
+### montage de l'ensemble
+C'est ici une étape cruciale pour le futur comportement roulant du fauteuil. Pour que le fauteuil file droit lorsqu'il court sur son erre, l'axe vertical des roues folles à l'avant doit être parfaitement vertical. A vous de jouer entre le réglage de votre boulon à l'avant et la hauteur à laquelle vous vissez les blocs moteurs à l'arrière. Pour ce faire, il vaut mieux travailler sur un établi parfaitement horizontal, il suffit de le vérifier à l'aide d'un niveau à bulle. Vous posez ensuite le fauteuil sur cales à l'arrière et sur ses roues folles à l'avant et trouvez la bonne hauteur en vous aidant du niveau à bulle posé parrallèlement à l'axe d'une des roues folles. Vérifiez ceci des deux côtés, sinon le  fauteuil aura tendance à virer.
+Ceci fait, vous pouvez présenter votre bloc moteur-roue sur le chassis en présentant la découpe de la plaque par l'avant. Faites un marquage, puis fixez la plaque  en utilisant les vis 4 x 45 mm sur la partie arrière renforcée et les vis 3 x 25mm sur le montant arrière du siège. Vous pouvez passez le tournevis au travers des rayons de la roue.
+[DSC_1426][Vue latérale du montage]
+
+
+
 
