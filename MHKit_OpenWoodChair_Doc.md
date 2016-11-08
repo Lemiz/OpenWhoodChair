@@ -71,7 +71,7 @@ Ces plaques sont utilisées pour monter les motoréducteurs sur le châssis. Ré
 Vous pouvez également les usiner vous-même. Les plans sont en ligne sur https://github.com/OpenWheelchair/Wheelchair-Frame malheureusement dans un format fermé (Solidworks).
 * 2 motoréducteurs Takanawa RS-555: consulter la page dédiée aux moteurs ainsi qu'à leur version haute puissance RS-530. Budget : 10 à 20 US$ sur Ebay ou Aliexpress. 
 * 2 roues folles diamètres 100mm
-* 2 roues pleines diamètre 150mm avec un axe diamètre M4
+* 2 roues pleines diamètre 6 pouces (soit 18 cm) avec un axe diamètre M4 (référence Openwheelchair)
 ## Coussins & ceinture
 ### Assise
 * mousse d'épaisseur 50mm: 350 x 270 
@@ -308,9 +308,11 @@ Assemblez la roue sur son moyeu en répartissant également les quatre boulons p
 Présentez la roue sur l'axe du moteur. La vis de serrage doit être présentée face au méplat de l'axe. On utilise une clé Allen pour ce faire. [DSC_1368][Vue masse de l'assemblage. Vous pouvez raccourcir les boulons à la meuleuse si ils risquent de frotter contre la plaque.]
 
 ### montage de l'ensemble
-C'est ici une étape cruciale pour le futur comportement roulant du fauteuil. Pour que le fauteuil file droit lorsqu'il court sur son erre, l'axe vertical des roues folles à l'avant doit être parfaitement vertical. A vous de jouer entre le réglage de votre boulon à l'avant et la hauteur à laquelle vous vissez les blocs moteurs à l'arrière. Pour ce faire, il vaut mieux travailler sur un établi parfaitement horizontal, il suffit de le vérifier à l'aide d'un niveau à bulle. Vous posez ensuite le fauteuil sur cales à l'arrière et sur ses roues folles à l'avant et trouvez la bonne hauteur en vous aidant du niveau à bulle posé parrallèlement à l'axe d'une des roues folles. Vérifiez ceci des deux côtés, sinon le  fauteuil aura tendance à virer.
+C'est ici une étape cruciale pour le futur comportement roulant du fauteuil. Pour que le fauteuil file droit lorsqu'il court sur son erre, les roues motrices sont disposées à l'arrière. Pour éviter que les roues folles ne se bloquent, leur axe vertical doit être parfaitement vertical. A vous de jouer entre le réglage des boulonnages à l'avant et la hauteur à laquelle vous vissez les blocs moteurs à l'arrière. Pour ce faire, il vaut mieux travailler sur un établi parfaitement horizontal, il suffit de le vérifier à l'aide d'un niveau à bulle. Vous posez ensuite le fauteuil sur cales à l'arrière et sur ses roues folles à l'avant et trouvez la bonne hauteur en vous aidant du niveau à bulle posé parrallèlement à l'axe d'une des roues folles. Vérifiez ceci des deux côtés, sinon le  fauteuil aura tendance à virer.
 Ceci fait, vous pouvez présenter votre bloc moteur-roue sur le chassis en présentant la découpe de la plaque par l'avant. Faites un marquage, puis fixez la plaque  en utilisant les vis 4 x 45 mm sur la partie arrière renforcée et les vis 3 x 25mm sur le montant arrière du siège. Vous pouvez passez le tournevis au travers des rayons de la roue.
 [DSC_1426][Vue latérale du montage]
+
+
 
 
 
