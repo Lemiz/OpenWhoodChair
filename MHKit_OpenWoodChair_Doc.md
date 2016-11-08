@@ -119,7 +119,7 @@ Découpe de bandelettes réfléchissante dans des plaques d'isolant métallisé 
 + 1.5m de câble Ethernet 4 paires
 + une batterie 12V
 + un connecteur à barillet (dit jack)
-+ un boitier électrique étanche. Le modèle utilisé ici: Debflex 1 rangée 12 modules H 18.8 x l 26.7 X P 11.7 cm. Il doit surtout être assez grand pour loger batterie, circuit de charge, Arduino et driver.
++ un boitier électrique étanche. Le modèle utilisé ici: Coffret étanche DEBFLEX 12 modules - ref : 706722 : H : 20 cm, L : 27 cm, P : 12 cm. Il doit surtout être assez grand pour loger batterie, circuit de charge, Arduino et driver.
 
 ## Outillage
 Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, disponibles dans n'importe quel magasin d'outillage. Le seul outil spécialisé dont vous aurez besoin (il s'agit de l'extracteur de pignon) est optionnel, et n'est nécessaire que si vous souhaitez passer à des moteurs plus puissants.
