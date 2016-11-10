@@ -169,19 +169,19 @@ Choisissez des palettes fraîchement assemblées, le bois séché exerçant plus
 N’oubliez pas de porter vos équipements de protection lors du démontage: lunettes de protection, gants et bouchons d'oreille, chaussures de sécurité et  vaccin contre le tétanos.
 
 Posez la palette à l'envers sur votre plan de travail. Avec le pied de biche, ôtez les clous des semelles: commencez par la planche du milieu, elle est  plus facile à enlever. Réservez les planches.
-![Crédits: CC 3.0 -BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_1163.JPG)
+![CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_1163.JPG)
 
 Posez ensuite la palette au sol toujours sur le dos (son plancher) et chassez les chevrons (les blocs quadrangulaires) avec la masse.
-![Crédits: CC 3.0 -BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_1165.JPG)
+![CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_1165.JPG)
 
 Une fois ceci fait, il faut retirer les agrafes et clous restants. On commence par marteler les agrafes du côté des chevrons et on finit de les extraire avec les tenailles.
-![Crédits: CC 3.0 -BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_116.JPG)
+![CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_116.JPG)
 
 On récolte ça:
-![Crédits: CC 3.0 -BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_1166.JPG)
+![CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_1166.JPG)
 
 Finalement,on passe au ponçage des planches afin de faire disparaître les échardes , étape au cours de laquelle le port du masque est hautement recommandé. Vous voilà avec un stock de matière première!
-![Crédits: CC 3.0 -BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_1167.JPG)
+![CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IMG_1167.JPG)
 ## Etape 4 - Débiter le bois de palettes
 On commence par débiter les planches les plus longues, en faisant attention aux nœuds, potentiellement cassants, où aux fentes qui sont apparues au démontage, particulièrement de bois sec. Vous pouvez le faire avec une scie électrique à onglet, à défaut avec une scie à main dans une boîte à onglet. Reportez-vous au paragraphe Ossature bois du chapitre précédent pour consulter la liste des planches nécessaires.
 
@@ -198,9 +198,11 @@ Afin de garantir la régularité de l'alignement des perçages, nous commençons
 #### Gabarit de vissage de bout
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 14mm d'épaisseur, vous tracez un trait à 7mm de l'extrémité pour que la vis pénètre au coeur du bois. Vous percerez ensuite 2 trous à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
 ![gabarit de bout](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1370.JPG)
+
 #### Gabarit de vissage latéral
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la largeur du bois de palette (dans notre cas, 50mm). Tracez ensuite les diagonales. Vous percerez ensuite 4 trous à 15 mm de chaque angle avec le même foret que précédemment.
 ![gabarit latéral](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1371.JPG)
+
 #### Astuce
 L’assemblage va beaucoup plus vite si vous organisez vos planches en paquets suivant les dimensions. Vous pouvez noter la cote directement sur la pièce comme nous l'avons fait ici au porte-mine, note qui sera enlevée par ponçage une fois l'assemblage fait.
 
@@ -227,16 +229,17 @@ Disposez ensuite les  2 planches de 313 mm à l'intérieur des planches de 600mm
 Nous devons maintenant assembler 2 planches de 83mm à l'intérieur des planches de 600mm, au niveau de ce qui portera les futures roues motrices. On commence par marquer l'épaisseur de la planche, puis on utilise la gabarit de vissage latéral aligné sur cette marquer pour prépercer la première vis.
 ![Préperçage du renfort](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1384.JPG)
 
-On visse avec deux vis 3x25; attention de ne pas noyer la tête pour de pas affleurer du côté intérieur.
+On visse avec deux vis 3x25; attention de ne pas noyer la tête pour seulement affleurer du côté intérieur.
 ![Vissage du renfort](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1386.JPG)
 
 On peut ensuite assembler la traverse de 313mm avec quatre vis 4x35 pour obtenir un montage dont on vérifiera l'équerrage avant de visser définitivement.
 ![Assemblage des renforts et de la traverse](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1408.JPG)
 
-On répète l'opération à l'autre extrémité. Attention: il faut utiliser les entretoises de 36mm à l'avant, contrairement à ce qu'indique la photo! En effet, nous avons ajouté par la suite un repose-pieds basculant par la suite, qui a nécessité de déplacer vers l'avant la traverse. 
+On répète l'opération à l'autre extrémité. Attention: il faut utiliser les entretoises de 36mm à l'avant, contrairement à ce qu'indique la photo! En effet, nous avons ajouté par la suite un repose-pieds basculant qui a nécessité de déplacer vers l'avant la traverse. 
 ![Assemblage final du cadre. ](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1394.JPG)
 
 ## Assemblage des accoudoirs
+
 Rassemblez les différentes pièces nécessaires à cette étape:
 + montants arrière : 2 x 450mm
 + montants avant : 2 x 530mm
@@ -308,3 +311,12 @@ Présentez la roue sur l'axe du moteur. La vis de serrage doit être présentée
 C'est ici une étape cruciale pour le futur comportement roulant du fauteuil. Pour que le fauteuil file droit lorsqu'il court sur son erre, les roues motrices sont disposées à l'arrière. Pour éviter que les roues folles ne se bloquent, leur axe vertical doit être parfaitement vertical. A vous de jouer entre le réglage des boulonnages à l'avant et la hauteur à laquelle vous vissez les blocs moteurs à l'arrière. Pour ce faire, il vaut mieux travailler sur un établi parfaitement horizontal, il suffit de le vérifier à l'aide d'un niveau à bulle. Vous posez ensuite le fauteuil sur cales à l'arrière et sur ses roues folles à l'avant et trouvez la bonne hauteur en vous aidant du niveau à bulle posé parrallèlement à l'axe d'une des roues folles. Vérifiez ceci des deux côtés, sinon le  fauteuil aura tendance à virer.
 Ceci fait, vous pouvez présenter votre bloc moteur-roue sur le chassis en présentant la découpe de la plaque par l'avant. Faites un marquage, puis fixez la plaque  en utilisant les vis 4 x 45 mm sur la partie arrière renforcée et les vis 3 x 25mm sur le montant arrière du siège. Vous pouvez passez le tournevis au travers des rayons de la roue.
 ![Vue latérale du montage](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1426.JPG)
+
+## Fabrication des accoudoirs et boîtier du joystick
+
+Les accoudoirs sont tous les deux différents mais interchangeables: il suffit de les retourner. L'un des accoudoirs est spécifique en ce qu'il a une forme de palette destinée à abriter le joystick.
+
+## impression 3d du boitier du joystick
+Afin d'abriter les contacts électriques du joystick de l'arrachement accidentel ou des projections d'eau, il est recommandé de l'abriter dans un boitier isolant. Nous avons modélisé et imprimé un boitier en ABS sur mesure. Vous trrouverez les fichiers source sur notre [dépôt Github](https://github.com/oli44/OpenWhoodChair-1/tree/master/3d).
+
+Toutes les mesures n'étaient pas bonnes, nous avons forcé le passage du joystcik dans le logement puis resoudé le plastique avec un décapeur thermique réglé au minimum.
