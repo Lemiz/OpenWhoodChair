@@ -4,7 +4,7 @@
  
 OpenWoodChair est une adaptation par l'association My Human Kit du projet Open wheel chair par la fondation américaine du même nom. Le but, que nous partageons avec cet organisme de bienfaisance, est de proposer une liste de pièces, des plans et un manuel de montage pas à pas permettant l'autoconstruction d'un fauteuil roulant en bois motorisé et à faible coût destiné aux enfants. L'idée est de rendre cet équipement réalisable avec un minimum de moyens techniques, en proposant de recycler un maximum de pièces, dont la maintenance et l'évolutivité soient également garanties. Il s'agit d'un processus en constante évolution, qui est documenté ici et publié sous des licences CC-BY permettant son libre usage tout comme sa modification et sa redistribution.
 
-![Alt Image extraite de la vidéo de présentation du projet Openwheelchair][BYU]. 
+![Image extraite de la vidéo de présentation du projet Openwheelchair](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/BYU-openwheelchair-youtube2015.jpg). 
 ** crédits: Brigham Young University News**
 
 La principale innovation du projet OpenWhoodChair réside dans l'abandon des tubes PVC disponible uniquement sur le marché nord-américain de l'ossature au profit d'un matériau recyclé disponible à peu près partout sur la planète, à savoir du bois de palette. On peut également imaginer d'autres adaptations à partir de ressources locales disponibles en abondance à proximité de chez vous, comme le bambou pour l'ossature, du tissu produit localement pour les coussins, etc.
@@ -15,13 +15,13 @@ Sauf mention contraire, toutes photos et illustrations CC 3.0 BY-SA Olivier Hein
 
 # Crédits & remerciements
 
-Le projet initial est accessible sur le site de la fondation [ALT site fondation Open Wheel Chair][http://www.openwheelchair.org/]
+Le projet initial est accessible sur le site de la [fondation Open Wheel Chair](http://www.openwheelchair.org/).
 
 ## Sprint Abilympics, Bordeaux, Avril 2016 
 Bernadette et Gérard Véron, Jimmy Véron, Yvonne et René Véron, Madeleine et Jean-Louis Delahaye, Jacqueline et Michel You
 ## Sprint Fabrikarium , Lycée Airbus, Toulouse, Octobre 2016 
 Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patrice Navarri (Airbus Toulouse), Jean-François Soucaille (Airbus Toulouse), Dirk Thalheim (Airbus HH) pour les conseils et retours utilisateur, Marine du Lycée Airbus (pilote d'essai), Olivier Heinry (FLOSS Manuals) pour la documentation, Philippe Pacotte (sympathisant MHK) pour la modélisation et l'impression 3d. 
-[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1423.JPG][Photo de groupe FabrikariumAirbus. Absents: Dirk, Marine & Philippe]
+![Photo de groupe FabrikariumAirbus. Absents: Dirk, Marine & Philippe](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1423.JPG)
 
 
 # Liste des pièces & fournitures
@@ -48,7 +48,7 @@ Toutes les pièces de bois de palette suivantes ont une section approximative de
 
 Métrage total utilisé : 10m. Prévoir de débiter 12m.
 
-[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1363.JPG][Planches débitées. Manquent 2 pièces longueur 110 et 2 pièces de 36mm]
+[Planches débitées. Manquent 2 pièces longueur 110 et 2 pièces de 36mm](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1363.JPG)
 + dossier du siège
    + contreplaqué 9mm : 270x400mm. 
 
