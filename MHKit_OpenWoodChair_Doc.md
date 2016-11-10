@@ -192,7 +192,8 @@ Il est également utile de casser les angles vifs après le débit en passant ra
 # Instructions de montage
 Le cadre en bois sera assemblé en 2 parties: tout d'abord la base,  puis les accoudoirs et enfin le siège avec son dossier. Le bloc propulsion, le repose-pieds et les coussins seront assemblés à la toute fin.
 
-## Découpage de gabarits
+## Découpage de 
+s
 Afin de garantir la régularité de l'alignement des perçages, nous commençons par construire deux gabarits de perçage. Le premier servira à réaliser les préperçages de bout de planche et le second pour les  préperçages latéraux. 
 #### Gabarit de vissage de bout
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 14mm d'épaisseur, vous tracez un trait à 7mm de l'extrémité pour que la vis pénètre au coeur du bois. Vous percerez ensuite 2 trous à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
@@ -212,6 +213,7 @@ Rassemblez les différentes pièces nécessaires à cette étape:
 + 4 x 313mm
 + 2 x 83mm
 + 2 x 36mm
+
 On commence par prépercer les planches de 600mm en utilisant le gabarit de vissage de bout. On se contente de marquer sans traverser la planche.
 ![préperçage à l'aide du gabarit](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1378.JPG)
 
