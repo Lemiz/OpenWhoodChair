@@ -1,8 +1,8 @@
 # Présentation du projet
 
- IMG OpenWoodchair [DSC_1500]  assemblée fin de sprint
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1500.JPG][Vue du fauteuil assemblé en fin de sprint FabrikariumAirbus]
  
-OpenWoodChair est une adaptation par l'association My Human Kit du projet Open wheel chair par la fondation américaine du même nom. Le but, que nous partageons avec cet organisme de bienfaisance, est de proposer une liste de pièces, des plans et un manuel de montage pas à pas permettant l'autoconstruction d'un fauteuil roulant en bois motorisé et à faible coût destiné aux enfants. L'idée est de rendre cet équipement réalisable avec un minimum de moyens techniques, en proposant de recycler un maximum de pièces, dont la maintenance et l'évolutivité soient également garanties. Il s'agit d'un processus en constante évolution, qui est documenté ici et publié sous des licences très permissives permettant son libre usage tout comme sa modification et sa redistribution, .
+OpenWoodChair est une adaptation par l'association My Human Kit du projet Open wheel chair par la fondation américaine du même nom. Le but, que nous partageons avec cet organisme de bienfaisance, est de proposer une liste de pièces, des plans et un manuel de montage pas à pas permettant l'autoconstruction d'un fauteuil roulant en bois motorisé et à faible coût destiné aux enfants. L'idée est de rendre cet équipement réalisable avec un minimum de moyens techniques, en proposant de recycler un maximum de pièces, dont la maintenance et l'évolutivité soient également garanties. Il s'agit d'un processus en constante évolution, qui est documenté ici et publié sous des licences CC-BY permettant son libre usage tout comme sa modification et sa redistribution.
 
 ![Alt Image extraite de la vidéo de présentation du projet Openwheelchair][BYU]. 
 ** crédits: Brigham Young University News**
@@ -11,10 +11,7 @@ La principale innovation du projet OpenWhoodChair réside dans l'abandon des tub
 Dans l'idée de rendre le fauteuil compatible avec une propulsion manuelle, nous avons également déplacé les roues motrices de l'avant à l'arrière, de telle sorte qu'il est toujours possible d'assembler le fauteuil sans les moteurs électriques avec de grandes roues classiques.
 # Licences
 Le matériel est distribuée sous licence CERN Open License Hardware v1.2.  
-Le logiciel est sous licence GNU General Public License Version 3.  
-En consultant ou en utilisant les documents disponible sur ce site, vous acceptez les termes de ces licences. 
-
-Pour en consulter les termes (en anglais) vous pouvez consulter le document <LICENCE>
+Sauf mention contraire, toutes photos et illustrations CC 3.0 BY-SA Olivier Heinry.
 
 # Crédits & remerciements
 
@@ -23,12 +20,9 @@ Le projet initial est accessible sur le site de la fondation [ALT site fondation
 ## Sprint Abilympics, Bordeaux, Avril 2016 
 Bernadette et Gérard Véron, Jimmy Véron, Yvonne et René Véron, Madeleine et Jean-Louis Delahaye, Jacqueline et Michel You
 ## Sprint Fabrikarium , Lycée Airbus, Toulouse, Octobre 2016 
-Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patrice Navarri (Airbus Toulouse), Jean-François Soucaille (Airbus Toulouse), Dirk Thalheim (Airbus HH) pour les conseils et retours utilisateur, Marine du Lycée Aribus (pilote d'essai), Olivier Heinry (FLOSS Manuals) pour la documentation, Philippe Pacotte (sympathisant MHK) pour la modélisation et l'impression 3d.
-[Alt photo de groupe FabrikariumAirbus][DSC_1423]
+Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patrice Navarri (Airbus Toulouse), Jean-François Soucaille (Airbus Toulouse), Dirk Thalheim (Airbus HH) pour les conseils et retours utilisateur, Marine du Lycée Airbus (pilote d'essai), Olivier Heinry (FLOSS Manuals) pour la documentation, Philippe Pacotte (sympathisant MHK) pour la modélisation et l'impression 3d. 
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1423.JPG][Photo de groupe FabrikariumAirbus. Absents: Dirk, Marine & Philippe]
 
-[DSC_1500]
-[BYU]
-[DSC_1423]
 
 # Liste des pièces & fournitures
 ## Ossature bois
@@ -54,23 +48,27 @@ Toutes les pièces de bois de palette suivantes ont une section approximative de
 
 Métrage total utilisé : 10m. Prévoir de débiter 12m.
 
-**PHOTO DSC 1363 (manque 2 pièces longueur 110 et 2 pièces de 36mm) **
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1363.JPG][Planches débitées. Manquent 2 pièces longueur 110 et 2 pièces de 36mm]
 + dossier du siège
    + contreplaqué 9mm : 270x400mm. 
 
 
-### Astuce
-Si vous souhaitez rendre les pièces de bois plus durable,vous pouvez les passer à l'huile dure ou bien à l 'huile de lin diluée avec 10 % de térébenthine.
 
- Pour le contreplaqué, utilisez du bois d'intérieur classé E1, dont les colles dégagent peu de COV toxiques. 
+### Astuce
++ Si vous souhaitez rendre les pièces de bois plus durable,vous pouvez les passer à l'huile dure ou bien à l 'huile de lin diluée avec 5-10 % de térébenthine.
++ Pour le contreplaqué, utilisez du bois d'intérieur classé E1, dont les colles dégagent peu de COV toxiques. 
+
+/* màj flossmanuals s'arrête ici */
 
 ## Groupe de propulsion
 * Plaques de fixation des motoréducteurs  
-![photo de la plaque de fixation de la boite de vitesse][gearboxplate]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/openwheelchair_gearbox-platex2.jpg][plaque de support du motoréducteur]
 Ces plaques sont utilisées pour monter les motoréducteurs sur le châssis. Référence GEARBOX-PLATE 14,95$ le lot de 2 chez [www.openwheelchair.org] (http://www.openwheelchair.org/Products/GearBox-Plate/) US$ 14,95 + frais de port
-* 2 motoréducteurs Takanawa RS-555: consulter la page dédiée aux moteurs ainsi qu'à leur version haute puissance RS-530. Budget : 10 à 20 US$ sur Ebay ou Aliexpress. 
+Vous pouvez également les usiner vous-même. Les plans sont en ligne sur https://github.com/OpenWheelchair/Wheelchair-Frame malheureusement dans un format fermé (Solidworks).
+* 2 motoréducteurs Takanawa RS-555 [https://github.com/oli44/OpenWhoodChair-1/tree/master/media/cotes-profil-takanawa-rs-555.jpg][plaque de support du motoréducteur]
+consulter la page dédiée aux moteurs ainsi qu'à leur version haute puissance RS-530. Budget : 10 à 20 US$ sur Ebay ou Aliexpress. 
 * 2 roues folles diamètres 100mm
-* 2 roues pleines diamètre 150mm
+* 2 roues pleines diamètre 6 pouces (soit 18 cm) avec un axe diamètre M4 (référence Openwheelchair)
 ## Coussins & ceinture
 ### Assise
 * mousse d'épaisseur 50mm: 350 x 270 
@@ -113,13 +111,15 @@ Découpe de bandelettes réfléchissante dans des plaques d'isolant métallisé 
 + Un bib de colle à bois vinylique prise rapide
 
 ## Electronique & électricité
++ un joystick
 + 1 Arduino/Genuino Uno
-+ un shield DFrobot DC Motor Driver 2×15A - Lite ref. SKU:DRI0018
++ un PCB DFrobot DC Motor Driver 2×15A - Lite ref. SKU:DRI0018
 + un interrupteur
 + du câble électrique souple 0,75mm2
 + 1.5m de câble Ethernet 4 paires
 + une batterie 12V
 + un connecteur à barillet (dit jack)
++ un boitier électrique étanche. Le modèle utilisé ici: Coffret étanche DEBFLEX 12 modules - ref : 706722 : H : 20 cm, L : 27 cm, P : 12 cm. Il doit surtout être assez grand pour loger batterie, circuit de charge, Arduino et driver.
 
 ## Outillage
 Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, disponibles dans n'importe quel magasin d'outillage. Le seul outil spécialisé dont vous aurez besoin (il s'agit de l'extracteur de pignon) est optionnel, et n'est nécessaire que si vous souhaitez passer à des moteurs plus puissants.
@@ -127,6 +127,7 @@ Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, dispon
 * une perceuse à colonne OU une perceuse filaire SINON une visseuse sans fil fera l'affaire
 * une visseuse sans fil OU un jeu de tournevis
 * une ponceuse OU du papier de verre grain 50, grain 120 voire plus fin si vous tenez à avoir une finition d'ébéniste
+* une meuleuse avec disque métal peut être utile pour couper les boulons et vis à bois trop longs
 * une machine à coudre OU une aiguille et de l'huile de coude
 
 ### Outillage manuel
@@ -134,28 +135,24 @@ Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, dispon
 * Jeu d'embouts type Pozi driv ou Torx suivant votre approvisionnement en vis
 * Forets à bois diamètre 2,75 (ou 3) et 6
 * un fer à souder 30W et un peu de brasure
-* un mètre ruban
+* un mètre ruban métallique
 * une équerre
-* un crayon à bois ou une pointe sèche
+* un niveau à bulle
+* un crayon à bois et/ou une pointe sèche
 * des colliers de serrage électrique parfois appelés Rilsan ou Colson
 * des cosses électriques plates
 * un multimètre
 * des serre-joint OU presse à bois OU des pinces-étau
+* du frein-filet faible résistance type Loctite 222 OU du vernis à ongle
 * un pied de biche, une masse & des tenailles pour le recyclage des palettes
-* un masque à poussière
-* des bouchons d'oreilles
-* des lunettes de protection
-* des gants de manutention
-* des ciseaux de couturière
-* une règle 50+ cm
-* un mètre ruban
+* un masque à poussière, des bouchons d'oreilles, des lunettes de protection, des gants de manutention
+* des ciseaux de couturière et un mètre ruban souple
+* une règle 50+ cm qui ne marque pas le tissu
 
 ### Option: extracteur de pignon 
 Utilisé pour retirer le pignon du moteur d'origine pour le remplacer par un moteur plus puissant. Quelques références en ligne:
 + AliExpress  : Puller-Remover-Walkera-W010
 + Hobbyking.com : Product id : S630
-
-[gearboxplate]: https://github.com/oli44/OpenWhoodChair-1/blob/master/media/openwheelchair_gearbox-platex2.jpg
 
 # Instructions de débit du bois de palette
 ## Étape 1: Mesures de votre enfant
@@ -165,34 +162,32 @@ Procurez-vous les différents matériaux figurant sur les pages "liste des pièc
 ## Étape 3 – Démonter les palettes
 Il existe beaucoup de qualités différentes de palettes, qui peuvent servir à transporter de tout, entre autres des produits toxiques. Faites donc bien attention dans le choix de votre matière première.  Privlégiez les palettes portant le marquage NIMP 15 ressemblant à un épi de lbé et les initiales HT, signifiant qu'elles ont subi un traitement thermique non-toxique contrairement au marquage BM signifiant un traitement au bromure, nocif. Ce dernier est interdit au sein de l'UE depuis 2010.
 
-IPPC_markings_on_wood_pallet.JPG By self-made by the uploader - Own work, CC BY-SA 2.5 ca, https://commons.wikimedia.org/w/index.php?curid=25071284
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/IPPC_markings_on_wood_pallet.JPG][By self-made by the uploader - Own work, CC BY-SA 2.5 ca, https://commons.wikimedia.org/w/index.php?curid=25071284]
 
 Choisissez des palettes fraîchement assemblées, le bois séché exerçant plus de contrainte lors du retrait des clous et agrafes.
 #### Astuce
 N’oubliez pas de porter vos équipements de protection lors du démontage: lunettes de protection, gants et bouchons d'oreille, chaussures de sécurité et  vaccin contre le tétanos.
 
 Posez la palette à l'envers sur votre plan de travail. Avec le pied de biche, ôtez les clous des semelles: commencez par la planche du milieu, elle est  plus facile à enlever. Réservez les planches.
-IMG_1163 Crédits: CC 3.0 -BY-SA Jacqueline You
-
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/IMG_1163.JPG][Crédits: CC 3.0 -BY-SA Jacqueline You]
 
 Posez ensuite la palette au sol toujours sur le dos (son plancher) et chassez les chevrons (les blocs quadrangulaires) avec la masse.
-IMG_1165 Crédits: CC 3.0 -BY-SA Jacqueline You
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/IMG_1165.JPG][Crédits: CC 3.0 -BY-SA Jacqueline You]
 
 Une fois ceci fait, il faut retirer les agrafes et clous restants. On commence par marteler les agrafes du côté des chevrons et on finit de les extraire avec les tenailles.
-IMG_1162 Crédits: CC 3.0 -BY-SA Jacqueline You
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/IMG_116.JPG][Crédits: CC 3.0 -BY-SA Jacqueline You]
 
 On récolte ça:
-IMG_1166  Crédits: CC 3.0 -BY-SA Jacqueline You
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/IMG_1166.JPG][Crédits: CC 3.0 -BY-SA Jacqueline You]
 
 Finalement,on passe au ponçage des planches afin de faire disparaître les échardes , étape au cours de laquelle le port du masque est hautement recommandé. Vous voilà avec un stock de matière première!
-IMG_1167  Crédits: CC 3.0 -BY-SA Jacqueline You
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/IMG_1167.JPG][Crédits: CC 3.0 -BY-SA Jacqueline You]
 ## Etape 4 - Débiter le bois de palettes
 On commence par débiter les planches les plus longues, en faisant attention aux nœuds, potentiellement cassants, où aux fentes qui sont apparues au démontage, particulièrement de bois sec. Vous pouvez le faire avec une scie électrique à onglet, à défaut avec une scie à main dans une boîte à onglet. Reportez-vous au paragraphe Ossature bois du chapitre précédent pour consulter la liste des planches nécessaires.
 
-![version électroportative][DSC_1360]
-![version manuelle][DSC_1354]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1360.JPG][version électroportative]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1354.JPG][version manuelle]
 Il est également utile de casser les angles vifs après le débit en passant rapidement la ponceuse inclinée à 45°.
-
 
 # Instructions de montage
 Le cadre en bois sera assemblé en 2 parties: tout d'abord la base,  puis les accoudoirs et enfin le siège avec son dossier. Le bloc propulsion, le repose-pieds et les coussins seront assemblés à la toute fin.
@@ -201,10 +196,10 @@ Le cadre en bois sera assemblé en 2 parties: tout d'abord la base,  puis les ac
 Afin de garantir la régularité de l'alignement des perçages, nous commençons par construire deux gabarits de perçage. Le premier servira à réaliser les préperçages de bout de planche et le second pour les  préperçages latéraux. 
 #### Gabarit de vissage de bout
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 14mm d'épaisseur, vous tracez un trait à 7mm de l'extrémité pour que la vis pénètre au coeur du bois. Vous percerez ensuite 2 trous à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
-[DSC_1370]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1370.JPG]
 #### Gabarit de vissage latéral
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la largeur du bois de palette (dans notre cas, 50mm). Tracez ensuite les diagonales. Vous percerez ensuite 4 trous à 15 mm de chaque angle avec le même foret que précédemment.
-[DSC_1371]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1371.JPG]
 #### Astuce
 L’assemblage va beaucoup plus vite si vous organisez vos planches en paquets suivant les dimensions. Vous pouvez noter la cote directement sur la pièce comme nous l'avons fait ici au porte-mine, note qui sera enlevée par ponçage une fois l'assemblage fait.
 
@@ -218,26 +213,26 @@ Rassemblez les différentes pièces nécessaires à cette étape:
 + 2 x 83mm
 + 2 x 36mm
 On commence par prépercer les planches de 600mm en utilisant le gabarit de vissage de bout. On se contente de marquer sans traverser la planche.
-[DSC_1378][préperçage à l'aide du gabarit]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1378.JPG][préperçage à l'aide du gabarit]
 
 On passe ensuite au perçage proprement dit. Cela permet de vérifier que le bois ne fend pas, ou que le perçage n'a pas lieu à un endroit critique comme un noeud ou l'ancien emplacement d'un clou.
-[DSC_1380][Perçage proprement dit]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1380.JPG][Perçage proprement dit]
 
 Disposez ensuite les  2 planches de 313 mm à l'intérieur des planches de 600mm, en vérifiant le bon équerrage. On visse en 4x35mm. Vosu devez obtenir un cadre rectangulaire, pas un trapèze. 
-[DSC_1383][Cadre assemblé] 
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1383.JPG][Cadre assemblé] 
 
 ### Ajout de renforts
-Nous devons maintenant assembler 2 planches de 83mm à l'intérieur des planches de 600mm, en renfort de ce qui sera l'arrière du chassis au niveau des futures roues motrices. On commence par marquer l'épaisseur de la planche, puis on utilise la gabarit de vissage latéral aligné sur cette marquer pour prépercer la première vis.
-[DSC_1384][Préperçage du renfort]
+Nous devons maintenant assembler 2 planches de 83mm à l'intérieur des planches de 600mm, au niveau de ce qui portera les futures roues motrices. On commence par marquer l'épaisseur de la planche, puis on utilise la gabarit de vissage latéral aligné sur cette marquer pour prépercer la première vis.
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1384.JPG][Préperçage du renfort]
 
 On visse avec deux vis 3x25; attention de ne pas noyer la tête pour de pas affleurer du côté intérieur.
-[DSC_1386][Vissage du renfort]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1386.JPG][Vissage du renfort]
 
 On peut ensuite assembler la traverse de 313mm avec quatre vis 4x35 pour obtenir un montage dont on vérifiera l'équerrage avant de visser définitivement.
-[DSC_1408][Assemblage des renforts et de la traverse]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1408.JPG][Assemblage des renforts et de la traverse]
 
-On répète l'opération à l'autre extrémité. Attention: il faut utiliser les entretoises de 36mm à l'avant, contrairement a=à ce qu'indique la photo! En effet, nous avons ajouté par la suite un repose-pieds basculant par la suite, qui a nécessité de déplacer vers l'avant la traverse. 
-[DSC_1394][Assemblage final du cadre. ]
+On répète l'opération à l'autre extrémité. Attention: il faut utiliser les entretoises de 36mm à l'avant, contrairement à ce qu'indique la photo! En effet, nous avons ajouté par la suite un repose-pieds basculant par la suite, qui a nécessité de déplacer vers l'avant la traverse. 
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1394.JPG][Assemblage final du cadre. ]
 
 ## Assemblage des accoudoirs
 Rassemblez les différentes pièces nécessaires à cette étape:
@@ -248,24 +243,24 @@ Rassemblez les différentes pièces nécessaires à cette étape:
 + de la colle à bois
 
 Disposez face à vous en les alignant les extrémités des 4 montants. Utilisez le gabarit de vissage latéral pour marquer 2 préperçages à chaque extrémité. Marquez ensuite chaque montant d'un trait à 245mm de l'extrémité prépercée. Répétez l'opération de préperçage.
-[DSC_1397][Nous avions ici déjà assemblé la traverse du haut. Il est plus aisé de commencer par le marquage simultané de tous les montants avant assemblage.]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1397.JPG][Nous avions ici déjà assemblé la traverse du haut. Il est plus aisé de commencer par le marquage simultané de tous les montants avant assemblage.]
 
 Assemblez ensuite 2 traverses de 300mm avec un montant de 450mm et un montant de 530mm. 
-[DSC_1405+1406][Vue recto-verso du premier accoudoir]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1405+1406.JPG][Vue recto-verso du premier accoudoir]
 
 Répétez l'opération pour l'accoudoir suivant, avec les 4 montants du côté opposé. Lors de l'assemblage final, les traverses du bas supporteront l'assise et celles du haut la tablette horizontal de l'accoudoir.
 
 Marquez ensuite le montant de 530mm à 80mm de l'extrémité laissée libre et utilisez le gabarit de vissage latéral pour y faire 2 prépercages. Prépercez également le montant de 450mm.
-[DSC_1407][Le bon usage de l'autofocus facilite la lecture du mètre-ruban :)]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1407.JPG][Le bon usage de l'autofocus facilite la lecture du mètre-ruban :)]
 
-Vous pouvez alors assembler le premier accoudoir en alignant la base du chassis sur le trait à 80mm et le bord du montant le plus court. L'arrière de montant le plus long doit se caler à l'extrémité de la traverse du chassis.
-[DSC_1407][Vue d'ensemble]
+Vous pouvez alors assembler le premier accoudoir en l'alignant à la verticale du trait à 80mm à la base du chassis et l'extrémité du montant le plus court. L'arrière de montant le plus long doit se caler à l'extrémité de la traverse du chassis.
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1409.JPG][Vue d'ensemble]
 
 On doit ajouter de nouveaux renforts qui doivent mieux répartir les fortes contraintes liées à l'assemblage des roues motrices à cet endroit. Ces pièces doivent courir de l'extrémité du cadre jusqu'aux montants arrière des accoudoirs. Il vaut mieux les mesurer plutôt que de les couper au préalable. Dans notre cas, elles font 112mm au lieu des 110mm prévus. Ce n'est pas bien méchant, mais tant qu'on y est...
-[DSC_1417][Cales de 110mm qui font 112mm dans la vraie vie]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1417.JPG][Cales de 110mm qui font 112mm dans la vraie vie]
 
 On est libre d'utiliser le gabarit de vissage latéral ou pas. Un peu de colle à cet endroit ne peut pas faire de mal non plus.
-[DSC_1418][Cales assemblées]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1418.JPG][Cales assemblées]
 
 ## Montage des roulettes
 Rassemblez les différentes pièces nécessaires à cette étape:
@@ -275,11 +270,45 @@ Rassemblez les différentes pièces nécessaires à cette étape:
 + de la colle à bois
 
 On commence par visser la traverse horizontale de 345mm sur laquelle seront fixées les roues folles en travers de l'avant du chassis. On utilisera le gabarit de vissage de bout, en travers tout d'abord pour les deux premières vis, puis à 90° sur la traverse avant, où une seule vis suffira. 
-[DSC_1411-3vis][Détail de l'assemblage avec les entretoises de 83mm.]
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1411-3vis.JPG][Détail de l'assemblage avec les entretoises de 83mm.]
 
-On perce ensuite la traverse que nous venons de poser pour laisser passer les axes des roues folles. Le dimaètre de perçage dépend du diamètre de ces axes. Dans notre cas, il s'agissait de M8. On perce alors directement en 8mm sans chercher à utiliser un diamètre inférieur contrairement aux vissages effectuées précedemment, car on boulonne. La position latérale du perçage doit être déterminé en fonction de la largeur totale du fauteuil roulant une fois les roues arrières montées. Il faut ques les roulettes avants puissent pivoter librement à l'intérieur de la largeur totale. Quant à la position en profondeur du perçage, elle a été déterminée de telle sorte que la rondelle et l'écrou puissent être assemblés sur l'axe de la roue folle sans encombre.
-[DSC_1412][Détail du boulonnage avec les entretoises de 83mm.]
+On perce ensuite la traverse que nous venons de poser pour laisser passer les axes des roues folles. Le dimaètre de perçage dépend du diamètre de ces axes. Dans notre cas, il s'agissait de M6. On perce alors directement en 8mm sans chercher à utiliser un diamètre inférieur contrairement aux vissages effectuées précedemment, car on boulonne. La position latérale du perçage doit être déterminé en fonction de la largeur totale du fauteuil roulant une fois les roues arrières montées. Il faut ques les roulettes avants puissent pivoter librement à l'intérieur de la largeur totale. Quant à la position en profondeur du perçage, elle a été déterminée de telle sorte que la rondelle et l'écrou puissent être assemblés sur l'axe de la roue folle sans encombre.
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1412.JPG][Détail du boulonnage avec les entretoises de 83mm.]
 
-Votre assemblage final doit plutôt ressembler à cette illustration. 
-[DSC_1412][Détail du collage a posteriori d'une entretoise de 36mm.]
+Votre assemblage final doit plutôt ressembler à cette illustration. Comme nous devons régler finement plus tard la hauteur, ne serrez pas trop fort.
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1432.JPG][Détail du collage a posteriori d'une entretoise de 36mm.]
+
+## montage des roues motrices
+
+Rassemblez les différentes pièces nécessaires à cette étape:
++ 2 plaques de fixation des motoréducteurs
++ 2 motoréducteurs Takanawa RS-555
++ 2 roues pleines diamètre 150mm et leurs moyeux
++ 8 boulons poêliers 5 x 50mm + écrous
++ 8 vis m4 x 30mm tête fraisée
++ 4 vis à bois 4 x 45mm
++ 4 vis à bois 2 x 25 mm
++ clé Allen
+
+Nous commençons par assembler la plaque au motoréducteur, puis la roue à l'ensemble. Une fois fait, on soude les câbles d'alimentation électrique. Une fois les 2 roues assemblées, on les fixe au chassis de bois.
+
+### assemblage de la plaque au motoréducteur.
+Si vous utilisez des vis à tête fraisé, il vous faudra au préalable fraiser les 8 perçages de petit diamètre, par exemple avec un foret HSS 6mm. Si vous utilisez des vis à tête plates, vous pouvez y aller.
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/openwheelchair_gearbox-platex2_cercles.JPG][
+Présentez les plaques face au moteur en faisant coïncider les perçages M4 cerclés sur l'illustration . Vissez en utilsant 4 vis m4 après avoir déposé une goutte de freinfilet à mi-filetage. Répétez l'opération avec l'autre ensemble, en faisant attention à l'orientation. Les 2 assemblages sont symétriques et non pas identiques.
+
+### assemblage de la roue 
+Assemblez la roue sur son moyeu en répartissant également les quatre boulons poêliers. N'hésitez pas encore une fois à mettre une goutte de freinfilet.
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1412.JPG][Vue latérale de l'assemblage. Evitez d'utiliser des vis cruciformes et fendues comme nous l'avons fait ;-)]
+Présentez la roue sur l'axe du moteur. La vis de serrage doit être présentée face au méplat de l'axe. On utilise une clé Allen pour ce faire. [https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1368.JPG][Vue masse de l'assemblage. Vous pouvez raccourcir les boulons à la meuleuse si ils risquent de frotter contre la plaque.]
+
+### montage de l'ensemble
+C'est ici une étape cruciale pour le futur comportement roulant du fauteuil. Pour que le fauteuil file droit lorsqu'il court sur son erre, les roues motrices sont disposées à l'arrière. Pour éviter que les roues folles ne se bloquent, leur axe vertical doit être parfaitement vertical. A vous de jouer entre le réglage des boulonnages à l'avant et la hauteur à laquelle vous vissez les blocs moteurs à l'arrière. Pour ce faire, il vaut mieux travailler sur un établi parfaitement horizontal, il suffit de le vérifier à l'aide d'un niveau à bulle. Vous posez ensuite le fauteuil sur cales à l'arrière et sur ses roues folles à l'avant et trouvez la bonne hauteur en vous aidant du niveau à bulle posé parrallèlement à l'axe d'une des roues folles. Vérifiez ceci des deux côtés, sinon le  fauteuil aura tendance à virer.
+Ceci fait, vous pouvez présenter votre bloc moteur-roue sur le chassis en présentant la découpe de la plaque par l'avant. Faites un marquage, puis fixez la plaque  en utilisant les vis 4 x 45 mm sur la partie arrière renforcée et les vis 3 x 25mm sur le montant arrière du siège. Vous pouvez passez le tournevis au travers des rayons de la roue.
+[https://github.com/oli44/OpenWhoodChair-1/tree/master/media/DSC_1426.JPG][Vue latérale du montage]
+
+
+
+
+
 
