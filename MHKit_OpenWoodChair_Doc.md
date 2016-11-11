@@ -162,9 +162,10 @@ Les cotes données dans la liste des pièces correspondent à la stature d'un en
 ## Étape 2 - Acheter et rassembler les matériaux et  outils 
 Procurez-vous les différents matériaux figurant sur les pages "liste des pièces" et "liste d'outils". Si vous ne trouvez pas certaines pièces, libre à vous d'adapter aux matériaux disponibles à proximité.
 ## Étape 3 – Démonter les palettes
-Il existe beaucoup de qualités différentes de palettes, qui peuvent servir à transporter de tout, entre autres des produits toxiques. Faites donc bien attention dans le choix de votre matière première.  Privlégiez les palettes portant le marquage NIMP 15 ressemblant à un épi de lbé et les initiales HT, signifiant qu'elles ont subi un traitement thermique non-toxique contrairement au marquage BM signifiant un traitement au bromure, nocif. Ce dernier est interdit au sein de l'UE depuis 2010.
+Il existe beaucoup de qualités différentes de palettes, qui peuvent servir à transporter de tout, entre autres des produits toxiques. Faites donc bien attention dans le choix de votre matière première.  Privlégiez les palettes portant le marquage NIMP 15 ressemblant à un épi de blé et les initiales HT, signifiant qu'elles ont subi un traitement thermique non-toxique contrairement au marquage BM signifiant un traitement au bromure, nocif. Ce dernier est interdit au sein de l'UE depuis 2010.
 
-![Alt By self-made by the uploader - Own work, CC BY-SA 2.5 ca, https://commons.wikimedia.org/w/index.php?curid=25071284](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IPPC_markings_on_wood_pallet.JPG) *self-made by the uploader, CC BY-SA 2.5*
+![Alt By self-made by the uploader - Own work, CC BY-SA 2.5 ca, https://commons.wikimedia.org/w/index.php?curid=25071284](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/IPPC_markings_on_wood_pallet.JPG) 
+*self-made by the uploader, CC BY-SA 2.5*
 
 Choisissez des palettes fraîchement assemblées, le bois séché exerçant plus de contrainte lors du retrait des clous et agrafes.
 
@@ -172,19 +173,29 @@ Choisissez des palettes fraîchement assemblées, le bois séché exerçant plus
 N’oubliez pas de porter vos équipements de protection lors du démontage: lunettes de protection, gants et bouchons d'oreille, chaussures de sécurité et  vaccin contre le tétanos.
 
 Posez la palette à l'envers sur votre plan de travail. Avec le pied de biche, ôtez les clous des semelles: commencez par la planche du milieu, elle est  plus facile à enlever. Réservez les planches.
-![Alt CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/palettes_IMG_1163.JPG) *CC 3.0 BY-SA Jacqueline You*
+
+![Alt CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/palettes_IMG_1163.JPG) 
+*CC 3.0 BY-SA Jacqueline You*
 
 Posez ensuite la palette au sol toujours sur le dos (son plancher) et chassez les chevrons (les blocs quadrangulaires) avec la masse.
+
 ![Alt CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/palettes_IMG_1165.JPG) *CC 3.0 BY-SA Jacqueline You*
 
 Une fois ceci fait, il faut retirer les agrafes et clous restants. On commence par marteler les agrafes du côté des chevrons et on finit de les extraire avec les tenailles.
-![Alt CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/palettes_IMG_1162.JPG) *CC 3.0 BY-SA Jacqueline You*
+
+![Alt CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/palettes_IMG_1162.JPG) 
+*CC 3.0 BY-SA Jacqueline You*
 
 On récolte ça:
-![Alt CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/palettes_IMG_1166.JPG) *CC 3.0 BY-SA Jacqueline You*
+
+![Alt CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/palettes_IMG_1166.JPG) 
+*CC 3.0 BY-SA Jacqueline You*
 
 Finalement,on passe au ponçage des planches afin de faire disparaître les échardes , étape au cours de laquelle le port du masque est hautement recommandé. Vous voilà avec un stock de matière première!
-![Alt CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/palettes_IMG_1167.JPG) *CC 3.0 BY-SA Jacqueline You*
+
+![Alt CC 3.0 BY-SA Jacqueline You](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/palettes_IMG_1167.JPG) 
+*CC 3.0 BY-SA Jacqueline You*
+
 ## Etape 4 - Débiter le bois de palettes
 On commence par débiter les planches les plus longues, en faisant attention aux nœuds, potentiellement cassants, où aux fentes qui sont apparues au démontage, particulièrement de bois sec. Vous pouvez le faire avec une scie électrique à onglet, à défaut avec une scie à main dans une boîte à onglet. Reportez-vous au paragraphe Ossature bois du chapitre précédent pour consulter la liste des planches nécessaires.
 
@@ -195,16 +206,22 @@ Il est également utile de casser les angles vifs après le débit en passant ra
 # Instructions de montage
 Le cadre en bois sera assemblé en 2 parties: tout d'abord la base,  puis les accoudoirs et enfin le siège avec son dossier. Le bloc propulsion, le repose-pieds et les coussins seront assemblés à la toute fin.
 
-## Découpage de 
+## Préparation de gabarits
 
 Afin de garantir la régularité de l'alignement des perçages, nous commençons par construire deux gabarits de perçage. Le premier servira à réaliser les préperçages de bout de planche et le second pour les  préperçages latéraux. 
+
 #### Gabarit de vissage de bout
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la moitié de l'épaisseur du bois de palette. Exemple: si votre bois de palette fait 14mm d'épaisseur, vous tracez un trait à 7mm de l'extrémité pour que la vis pénètre au coeur du bois. Vous percerez ensuite 2 trous à 10 mm de chaque bord avec un foret à bois d'un diamètre en dessous du diamètre de vos vis, afin que le fil puisse encore mordre le bois sans pour autant le faire éclater.
-![Alt gabarit de bout](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1370.JPG) *gabarit de bout*
+
+![Alt gabarit de bout](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1370.JPG) 
+
+*gabarit de bout*
 
 #### Gabarit de vissage latéral
 Prenez une chute, découpez son extrémité proprement à 90°. Tracez ensuite un trait parallèle à l'extrémité à une distance correspondant à la largeur du bois de palette (dans notre cas, 50mm). Tracez ensuite les diagonales. Vous percerez ensuite 4 trous à 15 mm de chaque angle avec le même foret que précédemment.
-![Alt gabarit latéral](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1371.JPG) *gabarit latéral*
+![Alt gabarit latéral](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1371.JPG) 
+
+*gabarit latéral*
 
 #### Astuce
 L’assemblage va beaucoup plus vite si vous organisez vos planches en paquets suivant les dimensions. Vous pouvez noter la cote directement sur la pièce comme nous l'avons fait ici au porte-mine, note qui sera enlevée par ponçage une fois l'assemblage fait.
