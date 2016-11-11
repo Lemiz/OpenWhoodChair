@@ -324,12 +324,13 @@ Présentez les plaques face au moteur en faisant coïncider les perçages M4 cer
 
 ### assemblage de la roue 
 Assemblez la roue sur son moyeu en répartissant également les quatre boulons poêliers. N'hésitez pas encore une fois à mettre une goutte de freinfilet.
-![Vue latérale de l'assemblage. Evitez d'utiliser des vis cruciformes et fendues comme nous l'avons fait ;-)](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1412.JPG) *Vue latérale de l'assemblage. Evitez d'utiliser des vis cruciformes et fendues comme nous l'avons fait ;-)*
-Présentez la roue sur l'axe du moteur. La vis de serrage doit être présentée face au méplat de l'axe. On utilise une clé Allen pour ce faire. !(Vue masse de l'assemblage. Vous pouvez raccourcir les boulons à la meuleuse si ils risquent de frotter contre la plaque.](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1368.JPG)
+![Alt Vue latérale de l'assemblage. Evitez d'utiliser des vis cruciformes et fendues comme nous l'avons fait ;-)](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1366.JPG) *Vue latérale de l'assemblage. Evitez d'utiliser des vis cruciformes et fendues comme nous l'avons fait ;-)*
+Présentez la roue sur l'axe du moteur. La vis de serrage doit être présentée face au méplat de l'axe. On utilise une clé Allen pour ce faire. ![Alt vue masse de l'assemblage. Vous pouvez raccourcir les boulons à la meuleuse si ils risquent de frotter contre la plaque](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1368.JPG) *Vous pouvez raccourcir les boulons à la meuleuse si vous jugez qu'ils risquent de frotter contre la plaque.*
 
 ### montage de l'ensemble
 C'est ici une étape cruciale pour le futur comportement roulant du fauteuil. Pour que le fauteuil file droit lorsqu'il court sur son erre, les roues motrices sont disposées à l'arrière. Pour éviter que les roues folles ne se bloquent, leur axe vertical doit être parfaitement vertical. A vous de jouer entre le réglage des boulonnages à l'avant et la hauteur à laquelle vous vissez les blocs moteurs à l'arrière. Pour ce faire, il vaut mieux travailler sur un établi parfaitement horizontal, il suffit de le vérifier à l'aide d'un niveau à bulle. Vous posez ensuite le fauteuil sur cales à l'arrière et sur ses roues folles à l'avant et trouvez la bonne hauteur en vous aidant du niveau à bulle posé parrallèlement à l'axe d'une des roues folles. Vérifiez ceci des deux côtés, sinon le  fauteuil aura tendance à virer.
 Ceci fait, vous pouvez présenter votre bloc moteur-roue sur le chassis en présentant la découpe de la plaque par l'avant. Faites un marquage, puis fixez la plaque  en utilisant les vis 4 x 45 mm sur la partie arrière renforcée et les vis 3 x 25mm sur le montant arrière du siège. Vous pouvez passez le tournevis au travers des rayons de la roue.
+
 ![Alt Vue latérale du montage](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1426.JPG) * Vue latérale du montage*
 
 ## Fabrication des accoudoirs et boîtier du joystick
