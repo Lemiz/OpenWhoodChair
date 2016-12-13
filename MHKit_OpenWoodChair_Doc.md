@@ -345,3 +345,5 @@ Les accoudoirs sont tous les deux différents mais interchangeables: il suffit d
 Afin d'abriter les contacts électriques du joystick de l'arrachement accidentel ou des projections d'eau, il est recommandé de l'abriter dans un boitier isolant. Nous avons modélisé et imprimé un boitier en ABS sur mesure. Vous trrouverez les fichiers source sur notre [dépôt Github](https://github.com/oli44/OpenWhoodChair-1/tree/master/3d).
 
 Toutes les mesures n'étaient pas bonnes, nous avons forcé le passage du joystcik dans le logement puis resoudé le plastique avec un décapeur thermique réglé au minimum.
+
+
