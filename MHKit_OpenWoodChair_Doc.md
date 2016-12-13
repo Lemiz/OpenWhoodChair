@@ -339,11 +339,23 @@ Ceci fait, vous pouvez présenter votre bloc moteur-roue sur le chassis en prés
 
 ## Fabrication des accoudoirs et boîtier du joystick
 
-Les accoudoirs sont tous les deux différents mais interchangeables: il suffit de les retourner. L'un des accoudoirs est spécifique en ce qu'il a une forme de palette destinée à abriter le joystick.
+Les accoudoirs sont différents mais interchangeables: il suffit de les retourner lorsque vous les changez de côté. L'un des accoudoirs est spécifique en ce qu'il a une forme de palette (de peintre) destinée à abriter le joystick. Vous trouverez le plan au format SVG sur notre dépôt Github (https://github.com/oli44/OpenWhoodChair-1/blob/master/media/accoudoir.svg). Le perçage central mesure 6mm de diamètre, les préperçages de vis à bois sont en 1mm de diamètre.
 
-## impression 3d du boitier du joystick
-Afin d'abriter les contacts électriques du joystick de l'arrachement accidentel ou des projections d'eau, il est recommandé de l'abriter dans un boitier isolant. Nous avons modélisé et imprimé un boitier en ABS sur mesure. Vous trrouverez les fichiers source sur notre [dépôt Github](https://github.com/oli44/OpenWhoodChair-1/tree/master/3d).
+## câblage et impression 3d du boitier du joystick
+Afin d'abriter les contacts électriques du joystick de l'arrachement accidentel ou des projections d'eau, il est recommandé de l'abriter dans un boitier isolant. Nous avons modélisé et imprimé un boitier en ABS sur mesure. Vous trouverez les fichiers source sur notre [dépôt Github](https://github.com/MHKit/OpenWhoodChair-1/tree/master/3d).
 
-Toutes les mesures n'étaient pas bonnes, nous avons forcé le passage du joystcik dans le logement puis resoudé le plastique avec un décapeur thermique réglé au minimum.
+Avant de placer le joystick dans son boitier, il faut câbler ses contacts de fin de course. Pour cela, il faut dénuder un câble Ethernet 4 paires sur une bonne dizaine de centimètres. Vous dénudez ensuite l'extrémité chacun des 8 câbles colorés sur 1cm, câbles que vous étamez: cela consiste à déposer un tout petit peu de brasure qui doit se répandre par capillarité entre les brins de cuivre. 
+
+Il faut ensuite souder les câbles sur le joystick en suivant le schéma suivant:
+
+![Alt Schéma de câblage du joystick](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/cablageJoystickVueDessus.png) 
+*Schéma de câblage du joystick*
+
+Toutes les mesures n'étaient pas bonnes, nous avons forcé le passage du joystick dans le logement puis resoudé le plastique avec un décapeur thermique réglé au minimum. Le bâton dujoystick a été dévissé afin de pouvoir passer dans le perçage central. L'assemblage du tout a été réalisé le fauteuil posé à l'envers sur l'établi.
+
+![Alt Montage final du joystick](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1442.JPG) 
+*Montage final du joystick*
+
+
 
 
