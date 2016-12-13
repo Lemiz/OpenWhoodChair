@@ -23,6 +23,9 @@ Bernadette et Gérard Véron, Jimmy Véron, Yvonne et René Véron, Madeleine et
 Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patrice Navarri (Airbus Toulouse), Jean-François Soucaille (Airbus Toulouse), Dirk Thalheim (Airbus HH) pour les conseils et retours utilisateur, Marine du Lycée Airbus (pilote d'essai), Olivier Heinry (FLOSS Manuals) pour la documentation, Philippe Pacotte (sympathisant MHK) pour la modélisation et l'impression 3d. 
 ![Photo de groupe FabrikariumAirbus. Absents: Dirk, Marine & Philippe](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1423.JPG) *Photo de groupe lors du Fabrikarium Airbus. Absents: Dirk, Marine & Philippe*
 
+# Avertissement
+
+La liste des pièces et certaines sections de la documentation ne sont pas définitives. Elles seront plus proches de la réalité après un test en grandeur réel au collège Petite Lande de Rezé (44) lors de la semaine du Handicap en 2017. Si d'ici là vous vous lancez dans l'assemblage d'un fauteuil et trouvez des corrections ou voulez soumettre des améliorations, n'hésitez pas à forker le [dépôt Github](https://github.com/MHKit/OpenWhoodChair) et soumettre des pull requests.
 
 # Liste des pièces & fournitures
 ## Ossature bois
@@ -374,5 +377,31 @@ Il faut ensuite fixer le câble pour qu'il ne pende pas dans le vide. Nous avons
 
 Une fois ceci fait, on roule et réserve le reste du câble 4 paires.
 
-## assemblage du botier électrique
+## assemblage du boîtier électrique
+
+Nous allons devoir assembler et faire tenir dans un boitier étanche la carte contrôleur Arduino, les pilotes des moteurs, la batterie, l'interrupteur et le connecteur de recharge de la batterie.
+
+![Alt Schéma de principe](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/schemaPrincipeAlimentation.png) 
+*Schéma de principe du montage électrique*
+
+Rassemblez les différentes pièces nécessaires à cette étape:
++ le boitier électrique étanche
++ le connecteur à barillet de recharge de la batterie
++ la batterie 12V
++ l'interrupteur
++ la carte driver de moteur DC de DFrobot
++ la carte Arduino Uno
++ du câble souple 0.75mm2 de préférence rouge et noir
+
+Il y a peu de chance que vous retrouviez exactement les mêmes composants que nous lors de ce montage, surtout si vous utilisez des pièces de récupération. Il vaut donc mieux entreprendre de monter à blanc une première fois avant de réaliser les perçages en adaptant les diamètres et les emplacements à votre matériel.
+
+
+
+### câblage du joystick
+
+### câblage des moteurs
+
+### charge de la batterie
+
+### tests
 
