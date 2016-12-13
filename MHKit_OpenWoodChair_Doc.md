@@ -440,6 +440,9 @@ Les 4 autres câbles Dupont, respectivement gris, noir, violet et blanc doivent 
 
 Il est primordial de câbler les moteurs de façon identique. Si vous ne le faites pas, les moteurs tourneront dans des sens opposés, et le fauteuil tournera sur lui-même alors qu'on souhaite filer droit. Des pinces crocodiles sont pareticulièrement pratiques à cette étape. Pour ce faire, marquez chacun des connecteurs d'un moteur soit d'un point noir soit d'un point rouge. Branchez le pôle négatif de la batterie sur le 0 avec un câble noir, puis le pôle positif sur le 1 avec un câble rouge. Observez dans quel sens la roue tourne. Effectuez le branchement sur le moteur de la seconde roue sans avoir marqué les polarités. Si elle ne tourne pas dans le même sens que la première, intervertissez le câblage, vé"rifiez que les deux roues tourne dans le même sens et notez les bonnes polarités d'un point rouge oui noir au feutre.
 
+![Alt Câblage du driver vers l'Arduino](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DFRobot_2x15ADCDriverDiagram_DRI0018_new.png) 
+*Câblage du driver vers l'Arduino.*
+
 Vous trouverez les informations détaillées concernant cette carte sur le [wiki du fabricant](https://www.dfrobot.com/wiki/index.php/DC_Motor_Driver_2x15A_Lite_(SKU:_DRI0018))
 
 ### câblage de l'interrupteur et de la batterie
@@ -448,5 +451,14 @@ Vous trouverez les informations détaillées concernant cette carte sur le [wiki
 
 ### tests
 
-# confection des coussins
+# Confection
 
+## Coussins
+
+![Alt coussins](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/coussins20161213_233424.jpg) 
+*Patrons des coussins.*
+
+## Lanières du cale-pieds
+
+![Alt Patrons des lanières du cale-pieds.](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/lanieresCalepieds20161213_233411.jpg) 
+*Patrons des lanières du cale-pieds.*
