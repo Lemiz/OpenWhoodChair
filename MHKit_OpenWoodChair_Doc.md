@@ -374,5 +374,31 @@ Il faut ensuite fixer le câble pour qu'il ne pende pas dans le vide. Nous avons
 
 Une fois ceci fait, on roule et réserve le reste du câble 4 paires.
 
-## assemblage du botier électrique
+## assemblage du boîtier électrique
+
+Nous allons devoir assembler et faire tenir dans un boitier étanche la carte contrôleur Arduino, les pilotes des moteurs, la batterie, l'interrupteur et le connecteur de recharge de la batterie.
+
+![Alt Schéma de principe](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/schemaPrincipeAlimentation.png) 
+*Schéma de principe du montage électrique*
+
+Rassemblez les différentes pièces nécessaires à cette étape:
++ le boitier électrique étanche
++ le connecteur à barillet de recharge de la batterie
++ la batterie 12V
++ l'interrupteur
++ la carte driver de moteur DC de DFrobot
++ la carte Arduino Uno
++ du câble souple 0.75mm2 de préférence rouge et noir
+
+Il y a peu de chance que vous retrouviez exactement les mêmes composants que nous lors de ce montage, surtout si vous utilisez des pièces de récupération. Il vaut donc mieux entreprendre de monter à blanc une première fois avant de réaliser les perçages en adaptant les diamètres et les emplacements à votre matériel.
+
+
+
+### câblage du joystick
+
+### câblage des moteurs
+
+### charge de la batterie
+
+### tests
 
