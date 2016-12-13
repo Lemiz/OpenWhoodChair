@@ -356,6 +356,12 @@ Toutes les mesures n'étaient pas bonnes, nous avons forcé le passage du joysti
 ![Alt Montage final du joystick](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1442.JPG) 
 *Montage final du joystick*
 
+Une fois ceci fait, on perce la pièce de bois horizontal sur laquelle repose l'accoudoir, puis la traverse horizontale à l'arrière de l'assise avec un foret permettant le passage aisé du câble 4 paires, dans notre cas, du 6mm.
 
+![Alt Perçage du passage de câble du joystick](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1454.JPG) 
+*Perçage du passage de câble du joystick*
 
+Il faut ensuite fixer le câble pour qu'il ne pende pas dans le vide. Nous avons utilisé une agrafeuse avec des agrafes de 10mm de large. Il faut être précuationneux et ne pas endommager le câble.
 
+![Alt Agrafage du passage de câble du joystick](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1458.JPG) 
+*Agrafage du passage de câble du joystick*
