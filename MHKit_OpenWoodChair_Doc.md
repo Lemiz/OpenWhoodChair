@@ -30,16 +30,21 @@ La liste des pièces et certaines sections de la documentation ne sont pas défi
 # Liste des pièces & fournitures
 ## Ossature bois
 Toutes les pièces de bois de palette suivantes ont une section approximative de 50 x 14 mm.
-+ accoudoirs : 
+
++ accoudoirs
+    
     + montants arrière : 2 x 450mm
     + montants avant : 2 x 530mm2 x 350mm
     + repose-pieds et siège : 7 x 350mm
-+cadre inférieur :
+    
++cadre inférieur
+
    + 2 x 600mm
    + 4 x 313mm
    + 2 x 83mm
    + 2 x 36mm
-+ supports moteur : 
+
++ supports moteur
    + 2 x 83mm
    + 2 x 110mm
 + traverses latérales du siège : 4 x 300mm
@@ -72,8 +77,10 @@ Vous pouvez également les usiner vous-même. Les plans sont en ligne sur https:
 * 2 motoréducteurs Takanawa RS-555 ![Alt motoréducteurs](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/cotes-profil-takanawa-rs-555.jpg) *Motoréducteur*
 
 Budget : 10 à 20 US$ sur Ebay ou Aliexpress. 
-* 2 roues folles diamètres 100mm
-* 2 roues pleines diamètre 6 pouces (soit 18 cm) avec un axe diamètre M4 (référence Openwheelchair)
+
++ 2 roues folles diamètres 100mm
++ 2 roues pleines diamètre 6 pouces (soit 18 cm) avec un axe diamètre M4 (référence Openwheelchair)
+
 ## Coussins & ceinture
 ### Assise
 * mousse d'épaisseur 50mm: 350 x 270 
@@ -93,8 +100,9 @@ Budget : 10 à 20 US$ sur Ebay ou Aliexpress.
 
 ### Marquage
 Découpe de bandelettes réfléchissante dans des plaques d'isolant métallisé réfléchissant pour porte de garage avec une face adhésive. 
-* Bande arrière 370 x 50 mm
-* Bandelettes de dimensions variables à disposer sur les roues motrices
+
++ Bande arrière 370 x 50 mm
++ Bandelettes de dimensions variables à disposer sur les roues motrices
 
 ## Visserie & quincaillerie
 ### Visserie bois
@@ -107,7 +115,7 @@ Découpe de bandelettes réfléchissante dans des plaques d'isolant métallisé 
 + Afin d'accélérer le montage, faites en sorte d'utiliser un seul type et une seule taille d'embout. Par exemple, nous n'avons utilisé que du PZ2 lors du montage de notre prototype.
 
 ### Visserie métallique
-+ 4 boulons poêliers 5 x 50mm
++ 8 boulons poêliers 5 x 50mm
 
 ### Quincaillerie
 + Axe du repose-pieds  
@@ -117,7 +125,7 @@ Découpe de bandelettes réfléchissante dans des plaques d'isolant métallisé 
 + Un bib de colle à bois vinylique prise rapide
 
 ## Electronique & électricité
-+ un joystick
++ un joystick à contacts fin de course
 + 1 Arduino/Genuino Uno
 + un PCB DFrobot DC Motor Driver 2×15A - Lite ref. SKU:DRI0018
 + un interrupteur
@@ -125,7 +133,8 @@ Découpe de bandelettes réfléchissante dans des plaques d'isolant métallisé 
 + 1.5m de câble Ethernet 4 paires
 + une batterie 12V
 + un connecteur à barillet (dit jack)
-+ un boitier électrique étanche. Le modèle utilisé ici: Coffret étanche DEBFLEX 12 modules - ref : 706722 : H : 20 cm, L : 27 cm, P : 12 cm. Il doit surtout être assez grand pour loger batterie, circuit de charge, Arduino et driver.
++ un boitier électrique étanche. Le modèle utilisé ici: Coffret étanche DEBFLEX 12 modules - ref : 706722 : H : 20 cm, L : 27 cm, P : 12 cm. Il doit surtout être assez grand pour loger batterie, circuit de charge, Arduino et driver
++ une vingtaine de câbles Dupont mâle/mâle 20cm  de couleur
 
 ## Outillage
 Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, disponibles dans n'importe quel magasin d'outillage. Le seul outil spécialisé dont vous aurez besoin (il s'agit de l'extracteur de pignon) est optionnel, et n'est nécessaire que si vous souhaitez passer à des moteurs plus puissants.
@@ -157,6 +166,7 @@ Vous aurez besoin des outils suivants pour assembler le fauteuil roulant, dispon
 
 ### Option: extracteur de pignon 
 Utilisé pour retirer le pignon du moteur d'origine pour le remplacer par un moteur plus puissant. Quelques références en ligne:
+
 + AliExpress  : Puller-Remover-Walkera-W010
 + Hobbyking.com : Product id : S630
 
@@ -164,8 +174,10 @@ Utilisé pour retirer le pignon du moteur d'origine pour le remplacer par un mot
 
 ## Étape 1: Mesures de votre enfant
 Les cotes données dans la liste des pièces correspondent à la stature d'un enfant de 4 ans (taille de 102 cm. Source: http://www.labonnetaille.com/guide-des-tailles/enfant-bebe-mode-vetements). Si votre enfant est particulièrement grand, vous pouvez rallonger de quelques dizaines de millimètres les cotes des accoudoirs et des montants arrière et avant, éventuellement la profondeur du siège. Par contre, le châssis sur lequel sont fixés roues et moteurs ne doit pas voir ses dimensions évoluer.
+
 ## Étape 2 - Acheter et rassembler les matériaux et  outils 
 Procurez-vous les différents matériaux figurant sur les pages "liste des pièces" et "liste d'outils". Si vous ne trouvez pas certaines pièces, libre à vous d'adapter aux matériaux disponibles à proximité.
+
 ## Étape 3 – Démonter les palettes
 Il existe beaucoup de qualités différentes de palettes, qui peuvent servir à transporter de tout, entre autres des produits toxiques. Faites donc bien attention dans le choix de votre matière première.  Privlégiez les palettes portant le marquage NIMP 15 ressemblant à un épi de blé et les initiales HT, signifiant qu'elles ont subi un traitement thermique non-toxique contrairement au marquage BM signifiant un traitement au bromure, nocif. Ce dernier est interdit au sein de l'UE depuis 2010.
 
@@ -342,7 +354,7 @@ Ceci fait, vous pouvez présenter votre bloc moteur-roue sur le chassis en prés
 
 ## Fabrication des accoudoirs et boîtier du joystick
 
-Les accoudoirs sont différents mais interchangeables: il suffit de les retourner lorsque vous les changez de côté. L'un des accoudoirs est spécifique en ce qu'il a une forme de palette (de peintre) destinée à abriter le joystick. Vous trouverez le plan au format SVG sur notre dépôt Github dans le dossier  src (https://github.com/oli44/OpenWhoodChair-1/blob/master/media/accoudoir.svg) ainsi que celui de l'équerre de l'accoudoir (https://github.com/oli44/OpenWhoodChair-1/blob/master/media/equerreAccoudoir.svg). Le perçage central mesure 6mm de diamètre, les préperçages de vis à bois sont variables, minimum 1mm de diamètre.
+Les accoudoirs sont différents mais interchangeables: il suffit de les retourner lorsque vous les changez de côté. L'un des accoudoirs est spécifique en ce qu'il a une forme de palette (de peintre) destinée à abriter le joystick. Vous trouverez le plan au format SVG sur notre dépôt Github dans le dossier  src (https://github.com/oli44/OpenWhoodChair-1/blob/master/media/accoudoir.svg) ainsi que celui de l'équerre de l'accoudoir (https://github.com/oli44/OpenWhoodChair-1/blob/master/media/equerreAccoudoir.svg). Le perçage central mesure 6mm de diamètre, les préperçages de vis à bois sont variables, au minimum le diamètre de votre boulon/vis - 0,5mm de diamètre afin qu'il y ait un peu de friction au serrage.
 
 ![Alt Plan coté de l'accoudoir](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/accoudoir.png) 
 *Plan coté de l'accoudoir*
@@ -360,7 +372,7 @@ Il faut ensuite souder les câbles sur le joystick en suivant le schéma suivant
 ![Alt Schéma de câblage du joystick](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/cablageJoystickVueDessus.png) 
 *Schéma de câblage du joystick*
 
-Toutes les mesures n'étaient pas bonnes, nous avons forcé le passage du joystick dans le logement puis resoudé le plastique avec un décapeur thermique réglé au minimum. Le bâton dujoystick a été dévissé afin de pouvoir passer dans le perçage central. L'assemblage du tout a été réalisé le fauteuil posé à l'envers sur l'établi.
+Toutes les mesures n'étaient pas bonnes, nous avons forcé le passage du joystick dans le logement puis resoudé le plastique avec un décapeur thermique réglé au minimum. Le bâton du joystick a été dévissé afin de pouvoir passer dans le perçage central. L'assemblage du tout a été réalisé le fauteuil posé à l'envers sur l'établi. Nous avons utilisé des boulons poeliers 5x50mm que nous avions en stock après les avoir raccourci à l'aide d'une scie à métaux à une longeur d'environ 25mm, à adapter suivant l'épaisseur de votre bois de palette. On peut très bien utiliser des vis à métaux à tête bombée au lieu de boulon, ou des vis BTR, peu importe les moyens pourvu que ça serre.
 
 ![Alt Montage final du joystick](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1442.JPG) 
 *Montage final du joystick*
@@ -392,16 +404,49 @@ Rassemblez les différentes pièces nécessaires à cette étape:
 + la carte driver de moteur DC de DFrobot
 + la carte Arduino Uno
 + du câble souple 0.75mm2 de préférence rouge et noir
++ 14 câbles Dupont mâle/mâle de couleur
++ de la gaine thermorétractable
 
 Il y a peu de chance que vous retrouviez exactement les mêmes composants que nous lors de ce montage, surtout si vous utilisez des pièces de récupération. Il vaut donc mieux entreprendre de monter à blanc une première fois avant de réaliser les perçages en adaptant les diamètres et les emplacements à votre matériel.
 
+### câblage du joystick vers le microcontrôleur Arduino
 
+Vous allez devoir relier via un câble dupont sectionné en 2 chacun des câbles provenant du joystick en réalisant une simple épissure et en ajoutant un point de brasure. Une fois fait, on enfile un peu de gaine thermorétractable et on donne un coup de fer pour assembler le tout.
 
-### câblage du joystick
+![Alt Câblage du joystick vers l'Arduino](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1458.JPG) 
+*Câblage du joystick vers l'Arduino. Les gaînes thermo ont été posées trop tôt. Faites ce que je dis, pas ce que je fais!*
 
-### câblage des moteurs
+Voici le tableau de correspondance depuis le câble 4 paires vers les Dupont:
 
-### charge de la batterie
++ orange vers orange
++ marron/blanc vers jaune
++ bleu vers bleu
++ vert vers vert
++ vert/blanc vers gris
++ bleu/blanc vers noir
++ rouge vers violet
++ orange/blanc vers blanc
+
+On raccorde ensuite les 4 pins positifs des fins de course du joystick comme suit:
+
++ bleu vers digital 8
++ orange vers digital 9
++ vert vers digital 10
++ jaune vers digital 11
+
+Les 4 autres câbles Dupont, respectivement gris, noir, violet et blanc doivent être raccordés à la masse de l'Arduino, marquée GND sur la carte en 2 emplacements respectivement du côté des ports analogiques et des ports digitaux. Pour ce faire, nous avons utilisé un petit bout de plaque de prototypage reliant ces 4 câbles via un connecteur monté sur la plaque reliés au verso par un dépôt de brasure, puis vers le pin GND de l'Arduino mais vous pouvez procéder de toute autre manière.
+
+### câblage des moteurs vers la carte driver
+
+Il est primordial de câbler les moteurs de façon identique. Si vous ne le faites pas, les moteurs tourneront dans des sens opposés, et le fauteuil tournera sur lui-même alors qu'on souhaite filer droit. Des pinces crocodiles sont pareticulièrement pratiques à cette étape. Pour ce faire, marquez chacun des connecteurs d'un moteur soit d'un point noir soit d'un point rouge. Branchez le pôle négatif de la batterie sur le 0 avec un câble noir, puis le pôle positif sur le 1 avec un câble rouge. Observez dans quel sens la roue tourne. Effectuez le branchement sur le moteur de la seconde roue sans avoir marqué les polarités. Si elle ne tourne pas dans le même sens que la première, intervertissez le câblage, vé"rifiez que les deux roues tourne dans le même sens et notez les bonnes polarités d'un point rouge oui noir au feutre.
+
+Vous trouverez les informations détaillées concernant cette carte sur le [wiki du fabricant](https://www.dfrobot.com/wiki/index.php/DC_Motor_Driver_2x15A_Lite_(SKU:_DRI0018))
+
+### câblage de l'interrupteur et de la batterie
+
+### câblage de la carte driver vers le microcontrôleur Arduino
 
 ### tests
+
+# confection des coussins
 
