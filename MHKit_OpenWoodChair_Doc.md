@@ -339,7 +339,13 @@ Ceci fait, vous pouvez présenter votre bloc moteur-roue sur le chassis en prés
 
 ## Fabrication des accoudoirs et boîtier du joystick
 
-Les accoudoirs sont différents mais interchangeables: il suffit de les retourner lorsque vous les changez de côté. L'un des accoudoirs est spécifique en ce qu'il a une forme de palette (de peintre) destinée à abriter le joystick. Vous trouverez le plan au format SVG sur notre dépôt Github (https://github.com/oli44/OpenWhoodChair-1/blob/master/media/accoudoir.svg). Le perçage central mesure 6mm de diamètre, les préperçages de vis à bois sont en 1mm de diamètre.
+Les accoudoirs sont différents mais interchangeables: il suffit de les retourner lorsque vous les changez de côté. L'un des accoudoirs est spécifique en ce qu'il a une forme de palette (de peintre) destinée à abriter le joystick. Vous trouverez le plan au format SVG sur notre dépôt Github dans le dossier  src (https://github.com/oli44/OpenWhoodChair-1/blob/master/media/accoudoir.svg) ainsi que celui de l'équerre de l'accoudoir (https://github.com/oli44/OpenWhoodChair-1/blob/master/media/equerreAccoudoir.svg). Le perçage central mesure 6mm de diamètre, les préperçages de vis à bois sont variables, minimum 1mm de diamètre.
+
+![Alt Plan coté de l'accoudoir](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/accoudoir.png) 
+*Plan coté de l'accoudoir*
+
+![Alt Plan coté de l'équerre de l'accoudoir](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/equerreAccoudoir.png) 
+*Plan coté de l'équerre de l'accoudoir*
 
 ## câblage et impression 3d du boitier du joystick
 Afin d'abriter les contacts électriques du joystick de l'arrachement accidentel ou des projections d'eau, il est recommandé de l'abriter dans un boitier isolant. Nous avons modélisé et imprimé un boitier en ABS sur mesure. Vous trouverez les fichiers source sur notre [dépôt Github](https://github.com/MHKit/OpenWhoodChair-1/tree/master/3d).
