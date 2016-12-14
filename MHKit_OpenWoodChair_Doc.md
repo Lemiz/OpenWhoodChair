@@ -413,8 +413,8 @@ Il y a peu de chance que vous retrouviez exactement les mêmes composants que no
 
 Vous allez devoir relier via un câble dupont sectionné en 2 chacun des câbles provenant du joystick en réalisant une simple épissure et en ajoutant un point de brasure. Une fois fait, on enfile un peu de gaine thermorétractable et on donne un coup de fer pour assembler le tout.
 
-![Alt Câblage du joystick vers l'Arduino](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1458.JPG) 
-*Câblage du joystick vers l'Arduino. Les gaînes thermo ont été posées trop tôt. Faites ce que je dis, pas ce que je fais!*
+![Alt Câblage du joystick vers l'Arduino](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DSC_1473.JPG) 
+*Câblage du joystick vers l'Arduino. Les gaines thermo noires ont été posées trop tôt. Faites ce que je dis, pas ce que je fais!*
 
 Voici le tableau de correspondance depuis le câble 4 paires vers les Dupont:
 
@@ -438,12 +438,23 @@ Les 4 autres câbles Dupont, respectivement gris, noir, violet et blanc doivent 
 
 ### câblage des moteurs vers la carte driver
 
-Il est primordial de câbler les moteurs de façon identique. Si vous ne le faites pas, les moteurs tourneront dans des sens opposés, et le fauteuil tournera sur lui-même alors qu'on souhaite filer droit. Des pinces crocodiles sont pareticulièrement pratiques à cette étape. Pour ce faire, marquez chacun des connecteurs d'un moteur soit d'un point noir soit d'un point rouge. Branchez le pôle négatif de la batterie sur le 0 avec un câble noir, puis le pôle positif sur le 1 avec un câble rouge. Observez dans quel sens la roue tourne. Effectuez le branchement sur le moteur de la seconde roue sans avoir marqué les polarités. Si elle ne tourne pas dans le même sens que la première, intervertissez le câblage, vé"rifiez que les deux roues tourne dans le même sens et notez les bonnes polarités d'un point rouge oui noir au feutre.
+Il est primordial de câbler les moteurs de façon identique. Si vous ne le faites pas, les moteurs tourneront dans des sens opposés, et le fauteuil tournera sur lui-même alors qu'on souhaite filer droit. Des pinces crocodiles sont pareticulièrement pratiques à cette étape. Pour ce faire, marquez chacun des connecteurs d'un moteur soit d'un point noir soit d'un point rouge. Branchez le pôle négatif de la batterie sur le 0 avec un câble noir, puis le pôle positif sur le 1 avec un câble rouge. Observez dans quel sens la roue tourne. Effectuez le branchement sur le moteur de la seconde roue sans avoir marqué les polarités. Si elle ne tourne pas dans le même sens que la première, intervertissez le câblage, vérifiez que les deux roues tournent dans le même sens et notez les bonnes polarités d'un point coloré au feutre.
 
 ![Alt Câblage du driver vers l'Arduino](https://github.com/oli44/OpenWhoodChair-1/raw/master/media/DFRobot_2x15ADCDriverDiagram_DRI0018_new.png) 
 *Câblage du driver vers l'Arduino.*
 
-Vous trouverez les informations détaillées concernant cette carte sur le [wiki du fabricant](https://www.dfrobot.com/wiki/index.php/DC_Motor_Driver_2x15A_Lite_(SKU:_DRI0018))
+Dans notre cas, nous avons procédé de la manière suivante:
+
+broches arduino	| broches PCB
+-------------|------------
+D4 | M2_EN
+D5 | 		M1_pwm
+D6 | 		M2_pwm
+D7 | 		M1_EN
+5V |	5V	
+GND |		GND
+
+Vous trouverez des informations détaillées concernant cette carte sur le [wiki du fabricant](https://www.dfrobot.com/wiki/index.php/DC_Motor_Driver_2x15A_Lite_(SKU:_DRI0018))
 
 ### câblage de l'interrupteur et de la batterie
 
