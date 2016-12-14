@@ -25,7 +25,7 @@ Michel & Jacqueline You , Gérard & Bernadette Véron ( afficionados MHK), Patri
 
 # Avertissement
 
-La liste des pièces et certaines sections de la documentation ne sont pas définitives. Elles seront plus proches de la réalité après un test en grandeur réel au collège Petite Lande de Rezé (44) lors de la semaine du Handicap en 2017. Si d'ici là vous vous lancez dans l'assemblage d'un fauteuil et trouvez des corrections ou voulez soumettre des améliorations, n'hésitez pas à forker le [dépôt Github](https://github.com/MHKit/OpenWhoodChair) et soumettre des pull requests.
+La liste des pièces et certaines sections de la documentation ne sont pas définitives. Elles seront plus proches de la réalité lors de la prochaine itération au collège Petite Lande de Rezé (44) lors de la semaine du Handicap en 2017. Si d'ici là vous vous lancez dans l'assemblage d'un fauteuil et trouvez des corrections ou voulez soumettre des améliorations, n'hésitez pas à forker le [dépôt Github](https://github.com/MHKit/OpenWhoodChair) et soumettre des pull requests.
 
 # Liste des pièces & fournitures
 ## Ossature bois
